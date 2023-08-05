@@ -1,664 +1,589 @@
 ,Part Number,Description,Supplier Name,Price,Quantity,Cost Per Unit,Total Cost,Months No Sale
-1100,BLG-013-00-NP,bark busters,amazon canada,275.5,0.0,0.0,0.0,11
-1353,7062220,bell bullit carbon mat blk xl,bell sports inc,899.99,0.0,469.77,0.0,10
-1372,7092434,srt m mat blk s,bell sports inc,479.95,0.0,256.1,0.0,11
-1376,7092438,srt m mat blk xxl,bell sports inc,479.95,0.0,256.1,0.0,9
-1448,7112230,"eliminator,vanish,mt,bk/rd,l",bell sports inc,549.99,0.0,290.37,0.0,10
-1495,7136376,"mx-9,adv,mips,dalton,blk/blu,lg",bell sports inc,319.99,0.0,160.05,0.0,9
-1508,7136686,"mx-9,adv,mips,matteblk,xl",bell sports inc,299.99,0.0,154.72,0.0,9
-1510,7136697,"mx-9,adv,mips,mrdr,m/g,blkout,lg",bell sports inc,339.99,0.0,176.06,0.0,11
-2661,11127723427,l-cylinder head cover,bmw,402.82,0.0,290.03,0.0,11
-2745,11128549653,"cylinder head cover, asphalt",bmw,402.82,0.0,290.03,0.0,9
-2797,11137708307,oil pan,bmw,495.0,0.0,360.0,0.0,9
-4400,12131542973,ignition coil,bmw,255.49,0.0,163.2,0.0,10
-4407,12132346570,ignition coil,bmw,270.49,0.0,172.8,0.0,9
-4455,12137924318,spark-plug shaft ignition co,bmw,255.49,0.0,163.2,0.0,11
-4508,12311540516,set alternator with freewhee,bmw,860.49,0.0,619.2,0.0,10
-4561,12319467618,voltage regulator,bmw,405.49,0.0,291.6,0.0,9
-4600,12418559627,starter,bmw,480.49,0.0,326.4,0.0,10
-4609,12419829398,set starter drive,bmw,275.49,0.0,198.0,0.0,10
-5636,16117685458,filler cap,bmw,310.0,0.0,223.2,0.0,11
-5683,16118394060,tank lid,bmw,630.49,0.0,453.6,0.0,10
-5801,16141600132,fuel level sensor,bmw,395.0,0.0,284.4,0.0,11
-5890,16147724843,fuel pump unit without lever,bmw,1060.0,0.0,763.2,0.0,10
-5919,16148564596,fuel pump assy,bmw,1060.49,0.0,763.2,0.0,11
-5922,16149444766,fuel pump unit with lever se,bmw,1120.49,0.0,806.4,0.0,9
-5955,17111600196,radiator,bmw,800.0,0.0,576.0,0.0,9
-6014,17118525108,radiator fan,bmw,530.0,0.0,381.6,0.0,9
-6017,17118525833,radiator,bmw,885.49,0.0,637.2,0.0,9
-6157,18112345851,f650 downpipe,bmw,420.0,0.0,285.6,0.0,9
-6433,18518555689,rear muffler,bmw,1430.49,0.0,900.9,0.0,10
-6445,18518562191,"exhaust manifold, chrome-pla",bmw,2890.0,0.0,2080.8,0.0,9
-6517,21212332974,pressure plate,bmw,300.0,0.0,190.4,0.0,11
-6545,21212345597,diaphr:sprg,bmw,300.0,0.0,216.0,0.0,11
-6550,21217666246,clutch housing,bmw,795.0,0.0,513.4,0.0,11
-6557,21217670455,clutch plate d=180 mm,bmw,375.0,0.0,220.8,0.0,11
-6618,21217700413,lamellar package,bmw,589.99,0.0,347.82,0.0,11
-6669,21218414017,clutch,bmw,1773.99,0.0,1117.36,0.0,11
-6710,21522333455,clutch vent pipe,bmw,300.49,0.0,216.0,0.0,11
-7428,24828395830,drive belt for cvt,bmw,385.49,0.0,277.2,0.0,11
-7536,27727678299,"belt wheel, rear",bmw,685.49,0.0,438.4,0.0,10
-8154,31427726772,"fork brace, black, lower",bmw,530.49,0.0,381.6,0.0,9
-8700,32727650777,"control assembly, brake, whi",bmw,675.49,0.0,486.0,0.0,9
-9858,33537728374,"spring strut, rear",bmw,1540.49,0.0,985.6,0.0,11
-10205,34117711427,brake disc,bmw,440.0,0.0,218.4,0.0,10
-10315,34118556253,brake caliper left gold,bmw,1230.0,0.0,836.4,0.0,9
-10316,34118556253,brake caliper left gold,bmw,1230.0,0.0,836.4,0.0,9
-10317,34118556253,brake caliper left gold,bmw,1230.0,0.0,836.4,0.0,9
-10321,34118556254,brake caliper right gold,bmw,1230.0,0.0,836.4,0.0,9
-10322,34118556254,brake caliper right gold,bmw,1230.0,0.0,836.4,0.0,9
-10323,34118556254,brake caliper right gold,bmw,1230.0,0.0,836.4,0.0,9
-10908,34517710736,pressure modulator,bmw,2110.49,0.0,1603.6,0.0,11
-11050,35218569755,"footbrake lever, adjustable",bmw,259.49,0.0,166.07,0.0,11
-11285,36317704344,sonnengelb front wheel,bmw,1580.49,0.0,1121.8,0.0,11
-11288,36317704680,"front wheel, dark slate",bmw,1670.49,0.0,1185.7,0.0,11
-11363,36318389055,black front wheel,bmw,1720.49,0.0,1221.2,0.0,11
-11444,36318556328,front wheel,bmw,1730.49,0.0,1245.6,0.0,9
-11553,46517691333,f650 frame,bmw,460.0,0.0,368.0,0.0,9
-11602,46518521844,rear frame,bmw,1630.49,0.0,1304.0,0.0,9
-12103,46545A097C1,luggage grid,bmw,399.49,0.0,271.39,0.0,10
-12224,46547695986,set case holder,bmw,375.49,0.0,255.17,0.0,11
-12311,46547728663,"case, left without painted p",bmw,591.99,0.0,378.66,0.0,9
-12341,46548394452,"back pad, topcase",bmw,570.49,0.0,410.4,0.0,10
-12353,46548414477,"softbag, left",bmw,1046.99,0.0,670.06,0.0,11
-12433,46548549364,"inner pocket, touring topcas",bmw,292.99,0.0,187.47,0.0,9
-12438,46548553901,"trim cover for case lid, lef",bmw,650.49,0.0,494.0,0.0,9
-12462,46549897984,lock right,bmw,300.0,0.0,219.0,0.0,9
-12643,46618556224,light white fender r1250r,bmw,335.0,0.0,254.6,0.0,9
-12658,46621542262,rear wheel cover,bmw,280.49,0.0,201.6,0.0,10
-12964,46631540816,engine spoiler stainless ste,bmw,452.99,0.0,321.5,0.0,9
-12966,46631541816,storage compartment with,bmw,1770.49,0.0,1274.4,0.0,11
-12969,46631542520,side cover right,bmw,480.49,0.0,364.8,0.0,9
-13327,46637664393,windscreen,bmw,475.49,0.0,304.0,0.0,9
-13359,46637670507,fairing bracket,bmw,1650.49,0.0,1188.0,0.0,11
-13642,46637694988,front panel carrier,bmw,405.0,0.0,277.2,0.0,9
-13935,46637727003,f700gs racing red front lh,bmw,600.0,0.0,456.0,0.0,10
-13992,46638382816,radiator cowl stainless stee,bmw,550.49,0.0,396.0,0.0,9
-14020,46638392880,"windshield, high",bmw,400.49,0.0,256.0,0.0,10
-14056,46638409172,headlight panel imperial blue,bmw,545.0,0.0,414.2,0.0,9
-14342,46638548073,"trim upper section, left",bmw,270.49,0.0,205.2,0.0,9
-14567,46639467643,cover storage compartment,bmw,375.49,0.0,270.0,0.0,11
-14582,46639480891,"front panel carrier, left",bmw,465.49,0.0,334.8,0.0,10
-15007,46818409128,rh fuel panel light white,bmw,945.0,0.0,718.2,0.0,9
-15560,51257698141,ignition lock with switch,bmw,260.0,0.0,208.0,0.0,11
-15587,51258540948,set uniform locking system,bmw,560.49,0.0,392.0,0.0,10
-15965,52538544792,"driver's seat, black, high,",bmw,1050.49,0.0,672.0,0.0,9
-15990,52538562135,low-profile bench seat,bmw,570.49,0.0,376.2,0.0,10
-15994,52538564838,low-profile bench seat,bmw,790.49,0.0,505.6,0.0,11
-16560,61317650281,left combination switch,bmw,437.21,0.0,299.66,0.0,10
-16774,61318522460,combination switch right,bmw,344.49,0.0,213.45,0.0,10
-16787,61318529352,combination switch right,bmw,344.49,0.0,213.45,0.0,10
-16797,61318529381,combination switch left,bmw,526.49,0.0,326.25,0.0,10
-16878,61318550037,combi switch left,bmw,890.68,0.0,641.29,0.0,11
-17082,62111691260,instrument cluster,bmw,950.0,0.0,684.0,0.0,9
-17147,62118535810,instrument cluster,bmw,1510.49,0.0,1147.6,0.0,9
-17407,63128523990,bulb xenon light,bmw,405.49,0.0,259.2,0.0,10
-17428,63128545636,high beam,bmw,465.49,0.0,334.8,0.0,10
-17952,65127106140,control unit for audio syste,bmw,1130.49,0.0,858.8,0.0,9
-18086,66127108669,"keyless ride radio-op.key, f",bmw,250.49,0.0,200.0,0.0,9
-19892,71602412380,atacama soft top case duffel,bmw,425.0,0.0,276.25,0.0,11
-20526,71608523399,"tool, service kit 1200",bmw,272.1,0.0,185.03,0.0,11
-21690,76118395199,jacket gs dry men's gray,bmw,302.99,0.0,230.17,0.0,10
-21986,76127922579,purerider pant 36/34,bmw,420.77,0.0,252.46,0.0,10
-22193,76128568089,jacket airshell 50 mens,bmw,660.99,0.0,396.34,0.0,11
-22257,76129899252,pants 'rider' for men,bmw,301.99,0.0,205.35,0.0,11
-22274,76138395213,jacket gs dry ladies' gray,bmw,299.99,0.0,227.88,0.0,10
-22333,76138547147,"airflow women's jacket, blac",bmw,298.49,0.0,226.83,0.0,11
-22775,76221541336,"boots, cruisecomfort 42",bmw,379.49,0.0,246.35,0.0,11
-22804,76227922714,venture grip gtx brown 39,bmw,334.49,0.0,187.1,0.0,11
-22805,76227922715,venture drip gtx 40,bmw,544.08,0.0,326.45,0.0,10
-22877,76228523100,boots sonora gtx black,bmw,449.49,0.0,269.4,0.0,10
-23220,76317105196,helmet sys 7 evo carbon ece,bmw,993.99,0.0,645.91,0.0,10
-23221,76317105210,helmet sys 7 evo carbon ece,bmw,999.49,0.0,649.35,0.0,10
-23222,76317105223,helmet sys 7 evo carbon ece,bmw,1089.49,0.0,707.85,0.0,11
-23256,76317922465,helmet gs pure desert 55 sm,bmw,850.13,0.0,442.07,0.0,9
-23474,76319899494,helmet 7 carbon moto,bmw,1086.49,0.0,738.8,0.0,10
-23861,76629446486,jacket 2-in-1 m sport unisex,bmw,298.99,0.0,152.24,0.0,9
-24149,77145A5A553,engine protection bar black,bmw,334.99,0.0,227.46,0.0,9
-24151,77145A5A554,engine protection bar black,bmw,334.99,0.0,227.46,0.0,9
-24470,77348533898,cover panel for tank hump,bmw,434.99,0.0,295.78,0.0,11
-24520,77405A3C587,side bag urban collection sm,bmw,289.99,0.0,185.51,0.0,9
-24586,77415A14875,set volume expansion,bmw,421.49,0.0,286.61,0.0,10
-24660,77418563761,"soft luggage, left",bmw,633.99,0.0,405.62,0.0,9
-24661,77418563762,"soft luggage, right",bmw,633.99,0.0,405.62,0.0,9
-24702,77419832024,touring case right,bmw,743.49,0.0,475.8,0.0,9
-24708,77419898413,touring case left,bmw,646.49,0.0,413.72,0.0,10
-24710,77419898414,touring case right,bmw,646.49,0.0,413.72,0.0,10
-24779,77438527849,topcase,bmw,739.99,0.0,473.31,0.0,11
-24780,77438527850,topcase,bmw,739.99,0.0,473.31,0.0,11
-24805,77438555738,touring topcase,bmw,1807.49,0.0,1156.75,0.0,9
-24819,77438569672,variotop case,bmw,879.49,0.0,562.87,0.0,9
-24820,77438569672,variotop case,bmw,879.49,0.0,562.87,0.0,9
-24831,77439829379,top case 30 l,bmw,546.99,0.0,349.87,0.0,10
-24835,77448396356,luggage grid,bmw,284.99,0.0,193.76,0.0,9
-24878,77452449425,tank-top bag,bmw,252.49,0.0,161.3,0.0,9
-24904,77452466686,tank-top bag,bmw,280.49,0.0,179.21,0.0,9
-24955,77492463726,rear pocket,bmw,477.49,0.0,305.56,0.0,11
-24965,77495A3C3D0,rear bag urban collection la,bmw,418.99,0.0,267.85,0.0,9
-25391,83300401792,getriebeaufnahme,bmw,529.49,0.0,439.29,0.0,10
-25662,83305A1FD97,engine mounting,bmw,302.99,0.0,251.27,0.0,9
-25664,83305A24474,adapter scherenheber,bmw,285.49,0.0,236.83,0.0,9
-25669,83305A64813,drilling template,bmw,763.99,0.0,633.96,0.0,10
-25672,83305A68857,werkzeug,bmw,1846.99,0.0,1532.9,0.0,10
-27136,CAP-ITCH,"cap,itch,heat,shield",captain itch,319.99,0.0,276.72,0.0,10
-27523,3016-000-006-660,artemis pant 6 dark grey/black,klim,749.95,0.0,487.47,0.0,10
-27776,3914-001-130-605,avalon jacket md vivid asphalt,klim,479.95,0.0,311.97,0.0,11
-27779,3914-001-140-612,avalon jacket lg  monument,klim,479.95,0.0,311.97,0.0,11
-28182,6030-002-042-604,carlsbad pant 42 cool gray,klim,679.95,0.0,441.97,0.0,10
-37569,14811231A,horizontal head camshaft,ducati,941.99,0.0,753.27,0.0,10
-37610,19020111A,clutch disc set,ducati,381.49,0.0,209.64,0.0,9
-37612,19020161A,clutch disc set,ducati,407.99,0.0,224.26,0.0,11
-37676,24220452A,generator cover,ducati,776.99,0.0,621.36,0.0,11
-37733,25120026B,water pump rotor,ducati,260.49,0.0,208.28,0.0,9
-37743,26420471A,generator denso,ducati,890.49,0.0,623.24,0.0,11
-37746,27040011A,starting motor,ducati,796.49,0.0,557.28,0.0,9
-37775,30121041AA,complete horizontal head,ducati,1666.49,0.0,1333.08,0.0,10
-37808,34111522AA,steering head,ducati,335.49,0.0,234.68,0.0,10
-37812,34220891AA,steering head base,ducati,377.99,0.0,264.51,0.0,10
-37859,34912831A,complete right slider,ducati,1127.99,0.0,789.41,0.0,11
-37880,34914991A,stanchion tube,ducati,497.99,0.0,348.26,0.0,11
-37904,34921941A,front fork overhaul set,ducati,302.99,0.0,211.81,0.0,9
-37915,36010451B,handlebar,ducati,341.99,0.0,273.36,0.0,11
-37967,37010346A,swing arm,ducati,2868.99,0.0,2294.89,0.0,11
-38028,40610346A,dashboard,ducati,1073.49,0.0,751.22,0.0,11
-38325,47011811AB,frame black,ducati,4874.49,0.0,3899.45,0.0,11
-38326,47011891AT,frame,ducati,4712.99,0.0,3770.29,0.0,11
-38339,470Z2981AA,frame,ducati,2581.99,0.0,2065.33,0.0,10
-38342,47111851CA,frame,ducati,2606.49,0.0,2084.83,0.0,11
-38355,48012493AA,upper half-fairing r.h. red,ducati,804.49,0.0,562.96,0.0,11
-38356,48012493BA,upper half-fairing l.h. red,ducati,804.49,0.0,562.96,0.0,11
-38358,48012912AG,"cover, radiator, lh",ducati,359.49,0.0,287.3,0.0,11
-38373,48017562AA,right upper fairing red,ducati,871.99,0.0,610.04,0.0,10
-38411,48120414AA,complete headlight fairing,ducati,950.49,0.0,665.31,0.0,11
-38415,481P1182AA,complete headlight fairing,ducati,1161.99,0.0,813.37,0.0,10
-38420,48211631AG,"cover , frame lh",ducati,500.99,0.0,400.72,0.0,11
-38478,49241111A,rear brake disc,ducati,339.49,0.0,186.6,0.0,11
-38511,50122231AA,front wheel rim,ducati,1463.99,0.0,1171.11,0.0,10
-38513,50122551AB,front wheel rim,ducati,2132.49,0.0,1705.76,0.0,11
-38523,50222011AA,rear wheel rim,ducati,1631.99,0.0,1305.2,0.0,10
-38524,50222311AB,rear wheel rim,ducati,2013.99,0.0,1611.0,0.0,11
-38546,52010155A,headlight,ducati,910.99,0.0,728.41,0.0,11
-38550,52010554A,headlight,ducati,900.49,0.0,720.22,0.0,11
-38568,52320101AT,"mirror, left glossy black",ducati,277.49,0.0,194.17,0.0,11
-38602,523S0533C,rear-view mirror r.h.,ducati,373.99,0.0,261.74,0.0,10
-38616,523S0655A,rear-view mirror r.h.,ducati,407.99,0.0,285.3,0.0,9
-38725,54812611B,water cooler,ducati,947.99,0.0,663.36,0.0,11
-38726,54812612B,radiatore acqua 1803,ducati,947.99,0.0,663.36,0.0,11
-38727,54840192A,water cooler,ducati,2484.49,0.0,1987.49,0.0,9
-38740,55010051B,electric fan,ducati,260.99,0.0,182.42,0.0,11
-38793,55611131AA,side stand,ducati,281.99,0.0,197.33,0.0,11
-38819,56410293BA,front fender red,ducati,275.99,0.0,192.96,0.0,11
-38820,56410293BT,"front fender, black",ducati,275.99,0.0,192.96,0.0,11
-38840,57015182C,horizontal exhaust pipe,ducati,307.99,0.0,246.39,0.0,11
-38851,57315071B,silencer,ducati,2132.49,0.0,1705.76,0.0,11
-38852,57315071C,muffler,ducati,2132.49,0.0,1705.77,0.0,11
-38853,57315072C,silencer,ducati,2132.49,0.0,1705.77,0.0,11
-38876,58610441CW,fuel tank orange/black strip,ducati,2705.49,0.0,2164.29,0.0,11
-38880,58612061AW,tank white,ducati,3649.99,0.0,2919.7,0.0,10
-38881,58612221BD,fuel tank,ducati,2308.99,0.0,1846.96,0.0,10
-38893,58613044AA,fuel tank,ducati,2606.49,0.0,2084.83,0.0,11
-39081,61911701A,cpu-rear caliper line,ducati,318.49,0.0,175.15,0.0,9
-39280,67620571A,final drive kit,ducati,370.49,0.0,203.59,0.0,10
-39281,67620591A,final drive kit,ducati,421.99,0.0,231.85,0.0,10
-39301,67621041A,final drive kit,ducati,374.49,0.0,205.87,0.0,10
-39302,67621051A,final drive kit,ducati,466.49,0.0,256.46,0.0,10
-39307,67621301A,final drive kit,ducati,333.99,0.0,183.54,0.0,11
-39315,67641032A,chain regina 530 136 zrpb2 x108,ducati,347.49,0.0,190.99,0.0,9
-39930,75620131A,hub,ducati,942.99,0.0,754.18,0.0,10
-40707,819Z0021B,rear wheel spindle,ducati,1184.99,0.0,947.65,0.0,10
-40754,82411703AB,rear l.h. plate,ducati,359.99,0.0,251.73,0.0,11
-40817,82929433A,headlight holder gold,ducati,462.99,0.0,370.03,0.0,11
-41451,889450115,wurth box 0962 330 043,ducati,722.49,0.0,649.82,0.0,9
-41605,96280411B,footpeg set in xdvl central po,ducati,1329.49,0.0,930.6,0.0,9
-41616,96280911AA,lowered suspension kit v20e,ducati,353.99,0.0,247.54,0.0,11
-41656,96480933A,complete racing exhaust,ducati,3858.99,0.0,2701.22,0.0,9
-41660,96480961A,racing complete exhaust,ducati,3495.99,0.0,2447.05,0.0,9
-41719,96680573A,set of heated grips m-fit,ducati,465.99,0.0,302.71,0.0,9
-41761,96780091A,side buffer - ms,ducati,376.49,0.0,263.24,0.0,11
-41766,96780241A,pill.rider seat soft bag kit 1,ducati,270.99,0.0,108.33,0.0,11
-41780,96780521A,set of internal bags for side,ducati,265.99,0.0,186.05,0.0,10
-41786,96780655A,ms1200 side panniers set - no,ducati,1239.49,0.0,867.61,0.0,11
-41839,96781851AA,set protezioni laterali 1900,ducati,896.99,0.0,717.5,0.0,9
-41900,96880661A,lowered seat 1504 pp,ducati,297.99,0.0,208.36,0.0,9
-41974,97180061A,oversized windscreen kit - hym,ducati,250.49,0.0,100.0,0.0,11
-41990,97180461A,touring 1312 windscreen,ducati,278.49,0.0,194.69,0.0,11
-42059,97381031AA,lateral protection set rizoma,ducati,252.99,0.0,177.02,0.0,11
-42069,97381951AA,set paracoppa 1900,ducati,640.99,0.0,448.44,0.0,9
-42103,97780131AA,kit serbatoio secondario 1900,ducati,2325.49,0.0,1860.38,0.0,9
-42127,97980831C,enduro 1508/1817/v20e pack,ducati,2097.49,0.0,1468.09,0.0,11
-42139,97981121aa,xdiavel nera colour set - red,ducati,2958.0,0.0,2958.0,0.0,9
-42140,97981201AA,pack offroad,ducati,1927.99,0.0,1349.59,0.0,9
-42198,981029748,2pcs leather suit corse c2,ducati,1369.49,0.0,752.95,0.0,9
-42217,981036825,helmet dark rider v2 dot/ece l,ducati,439.49,0.0,241.45,0.0,10
-42307,981070754,jacket fighter c1 54,ducati,649.49,0.0,356.95,0.0,11
-42330,981071338,fabric jacket speed air c2 xxx,ducati,329.49,0.0,230.3,0.0,11
-42359,981072954,jacket speed evo c2 perf. 54,ducati,849.49,0.0,594.3,0.0,10
-42360,981073152,leather trousers company c4,ducati,639.49,0.0,447.3,0.0,11
-42378,981077045,jacket outdoor c3 man l,ducati,449.49,0.0,314.3,0.0,9
-42379,981077154,helmet d.corse power ece 22-06,ducati,1199.49,0.0,899.25,0.0,11
-42380,981077204,helmet xdiavel ece m,ducati,2999.95,0.0,2249.96,0.0,9
-42381,981077245,back protector comp. 3 wave,ducati,259.49,0.0,194.25,0.0,10
-42768,bmcylinder381,master cylinder r90,eurotech motorsports,635.0,0.0,0.0,0.0,11
-42825,09-0916,"arai,regent-x,gunm/frost,lg",full bore,749.99,0.0,458.97,0.0,11
-43425,15-1061,170/60-17 heid k60 scout,full bore,309.95,0.0,172.47,0.0,11
-43580,22-0116,170/60-17 anla capra-x,full bore,284.9,0.0,136.61,0.0,11
-43837,66-14459,crash bar-bmw f750-850gs(18),full bore,326.95,0.0,273.56,0.0,9
-45042,122489,"100/90-19,57v,battlax,adv,trail,",kimpex,293.99,0.0,130.51,0.0,9
-45560,334963,jeans covert evo straig reg,kimpex,279.99,0.0,146.99,0.0,10
-45578,354021,mitas dakar e 07,kimpex,353.99,0.0,167.39,0.0,11
-45639,357070,170/60b17 72q tractionator gps,kimpex,489.99,0.0,217.04,0.0,10
-45801,397174,helm horizon skid bk/ye hvs l,kimpex,279.99,2.0,149.54,299.08,11
-46038,830465,helmet signet-x diamond wh xl,kimpex,1009.99,1.0,643.87,643.87,11
-46046,830523,helmet signet-x pearl bk m ara,kimpex,989.99,0.0,603.94,0.0,9
-46502,MIT24030,170/60-17 e-07+ dakar,mavrick,310.45,0.0,156.46,0.0,9
-54300,515-1105,150/70b17tl 69h k76,motovan,310.99,0.0,202.14,0.0,9
-54863,566-15026,"mss.11.953.10100/b.skidplate,",motovan,622.99,0.0,448.55,0.0,11
-55502,77-13202,rf-1400 prologue tc-10 s,motovan,939.99,0.0,676.79,0.0,11
-57674,147-1002,750lb cross bar alum. ramp 122,motovan,381.99,0.0,255.93,0.0,9
-58838,515-1105,150/70b17tl 69h k76,motovan,310.99,0.0,202.14,0.0,11
-58923,566-11860,kobra hguard,motovan,307.99,0.0,221.75,0.0,9
-58936,566-14504,crashbar bmw r1250 gs / r / rs,motovan,599.99,0.0,431.99,0.0,9
-59061,77-13113,rf-1400 white m,motovan,799.99,0.0,575.99,0.0,10
-59064,77-13543,rf-1400 accolade tc-10 m,motovan,939.99,0.0,676.79,0.0,9
-59210,95-1511,anakee wild 120/70r19,motovan,305.99,0.0,173.05,0.0,9
-59211,95-1512,anakee wild 170/60r17,motovan,415.99,0.0,213.65,0.0,9
-59574,0101-14646,rpha 1 matte black xs,parts canada/power twins,1049.99,0.0,734.96,0.0,10
-59575,0101-14647,rpha 1 matte black sm,parts canada/power twins,1049.95,0.0,734.96,0.0,11
-59598,0301-0081,120/70zr17 58w u pilot power 2,parts canada/power twins,294.99,0.0,186.47,0.0,11
-59610,0301-0436,120/70zr19 60w commander ii fr,parts canada/power twins,395.95,0.0,257.37,0.0,11
-59625,0301-0605,120/70zr17 (58w) diablo rosso 3,parts canada/power twins,288.99,0.0,187.82,0.0,10
-59647,0301-0738,120/70zr19 (60w) battlecruise,parts canada/power twins,311.99,0.0,202.77,0.0,11
-59654,0301-0776,120/70r17 58v me888 marathon u,parts canada/power twins,316.99,0.0,206.02,0.0,9
-59718,0302-0849,170/60zr17 (72w) pilot road 4 gt,parts canada/power twins,392.99,0.0,255.42,0.0,11
-59766,0302-1261,180/60r16 80h av92 cobra,parts canada/power twins,594.95,0.0,386.72,0.0,9
-59778,0302-1349,190/50zr17 (73w) battlax s22 r,parts canada/power twins,378.95,0.0,246.32,0.0,9
-59805,0302-1565,200/55zr17 (78w) diablo rosso,parts canada/power twins,497.95,0.0,323.67,0.0,10
-59812,0302-1608,170/60zr17 (72w) road 6 rear,parts canada/power twins,501.95,0.0,326.27,0.0,10
-59813,0302-1608,170/60zr17 (72w) road 6 rear,parts canada/power twins,501.95,0.0,326.27,0.0,10
-59821,0302-1653,180/55zr17 (73w) diablo rosso,parts canada/power twins,433.95,0.0,282.07,0.0,9
-59825,0303-0063,120/70zr19 (60w) d208 v-rod fr,parts canada/power twins,384.95,0.0,250.22,0.0,11
-59832,0304-0023,180/55zr18 74w exedra g850r re,parts canada/power twins,330.95,0.0,215.12,0.0,11
-59876,0305-0519,120/70b21 68h me888 marathon,parts canada/power twins,426.95,0.0,277.52,0.0,9
-59877,0305-0527,120/70b17 58v me888 front metz,parts canada/power twins,367.99,0.0,239.17,0.0,11
-59887,0305-0628,120/70-21 68v av91 cobra chrome,parts canada/power twins,531.95,0.0,345.77,0.0,9
-59891,0305-0681,120/70b21 68h tl/tt commander iii,parts canada/power twins,482.95,0.0,313.92,0.0,9
-59896,0305-0817,90/90b18 51h road classic fron,parts canada/power twins,485.95,0.0,315.87,0.0,11
-59919,0306-0324,180/65b16 81h american elite m,parts canada/power twins,460.95,0.0,299.62,0.0,11
-59921,0306-0421,160/70b17 79v me888 reinforced,parts canada/power twins,513.99,0.0,334.07,0.0,11
-59928,0306-0606,120/70zr19 60w scorpion trail 2,parts canada/power twins,380.99,0.0,247.62,0.0,10
-59932,0306-0663,180/55b18 80h cruisetec rear,parts canada/power twins,576.95,0.0,375.02,0.0,11
-59937,0306-0702,180/55b18 80h tl/tt commander,parts canada/power twins,577.95,0.0,375.67,0.0,11
-59940,0306-0767,100/90-18 56v roadrider mkii f,parts canada/power twins,272.95,0.0,177.42,0.0,10
-59948,0306-0835,4.00b18 64h road classic rear,parts canada/power twins,456.95,0.0,297.02,0.0,11
-59949,0308-0001,mu85b16 77h d402 hd rear oe,parts canada/power twins,313.95,0.0,204.07,0.0,11
-59951,0308-0006,160/70vb17 73v lasertec rear,parts canada/power twins,424.95,0.0,276.22,0.0,11
-60000,0316-0271,110/80r19 59v tourance next (b,parts canada/power twins,297.99,0.0,193.67,0.0,11
-60020,0316-0354,120/70r19 60v conti trail atta,parts canada/power twins,378.95,0.0,246.32,0.0,9
-60026,0316-0362,90/90-21 54v tl/tt anakee adve,parts canada/power twins,345.99,0.0,224.87,0.0,11
-60027,0316-0381,120/70zr19 60w road 5 trail fr,parts canada/power twins,433.99,0.0,282.07,0.0,10
-60047,0317-0153,150/70r17 69v tourance next,parts canada/power twins,419.99,0.0,272.97,0.0,11
-60069,0317-0244,4.00-18 64t tkc70 rear,parts canada/power twins,304.95,0.0,198.22,0.0,11
-60088,0317-0354,170/60r17 72v scorpion trail 2,parts canada/power twins,453.99,0.0,295.07,0.0,10
-60108,0317-0449,170/60zr17 72w conti trail att,parts canada/power twins,494.95,0.0,321.72,0.0,9
-60121,0317-0559,140/80r17 69s tkc70 rocks rear,parts canada/power twins,444.95,0.0,289.22,0.0,9
-60268,1020-3851,pc-6 suz w/i sv650 03-06,parts canada/power twins,809.95,0.0,566.97,0.0,10
-60269,1020-3898,pc-6 tri w/i t120 16-20,parts canada/power twins,809.95,0.0,566.97,0.0,10
-60487,1601-0510,shift sensor pc-v dual,parts canada/power twins,459.95,0.0,321.97,0.0,10
-60542,165637,yix30l-bs-pw w/acid pack,parts canada/power twins,274.95,0.0,192.46,0.0,11
-60632,1811-3710,2019 r1250rt slip-on ti/cf,parts canada/power twins,1839.95,0.0,1379.96,0.0,10
-60641,1812-0228,14-20 mon 821/1200 ti link pipe,parts canada/power twins,314.95,0.0,236.21,0.0,9
-60650,1812-0400,19-22 s1000rr opt header ss,parts canada/power twins,1744.95,0.0,1308.71,0.0,10
-61246,3515-0131,convertible pet carrier &,parts canada/power twins,335.95,0.0,218.37,0.0,10
-61355,3807-0060,"optimate cable, o-01 100pk",parts canada/power twins,840.95,0.0,546.62,0.0,9
-61586,4402-0854,packtalk bold jbl single,parts canada/power twins,459.95,0.0,211.22,0.0,11
-61592,4402-0940,packtalk edge - duo,parts canada/power twins,944.95,0.0,661.47,0.0,9
-62420,97388,tkc 80 110/80b19,parts canada/power twins,349.95,0.0,170.6,0.0,10
-62869,0301-0732,120/70r17 58v scorpion rally s,parts canada/power twins,335.99,1.0,153.95,153.95,10
-62881,0301-0764,130/70r18 63h av91 cobra chrom,parts canada/power twins,499.99,1.0,216.43,216.43,9
-63037,0302-1217,180/55r17 73v scorpion rally s,parts canada/power twins,525.99,1.0,241.02,241.02,10
-63050,0302-1262,180/70r16 77v av92 cobra chrom,parts canada/power twins,680.99,0.0,294.91,0.0,10
-63054,0302-1266,"190/60r17,(78v)cchr",parts canada/power twins,563.99,0.0,231.54,0.0,11
-63079,0302-1349,190/50zr17 (73w) battlax s22 r,parts canada/power twins,403.99,0.0,184.74,0.0,11
-63097,0302-1468,190/50zr17 metzeler sportec,parts canada/power twins,438.99,0.0,212.53,0.0,10
-63105,0302-1505,150/60r17 66h battlax s22 rear,parts canada/power twins,300.99,0.0,128.19,0.0,11
-63108,0302-1526,160/60zr17 (69w) battlax st t3,parts canada/power twins,377.99,0.0,183.98,0.0,11
-63133,0302-1614,190/50zr17 (73w) road 6 gt rea,parts canada/power twins,553.99,0.0,270.54,0.0,11
-63147,0303-0041,"130/70hr18,63h,g851f-g",parts canada/power twins,302.99,0.0,196.88,0.0,10
-63159,0304-0023,180/55zr18 74w exedra g850r re,parts canada/power twins,365.99,0.0,161.34,0.0,11
-63160,0304-0039,"190/60hr17,78h,g850r-g,",parts canada/power twins,423.99,0.0,275.0,0.0,10
-63249,0305-0585,100/90-18 56v roadtec 01 front,parts canada/power twins,285.99,0.0,125.4,0.0,9
-63271,0305-0646,100/90-16 54h roadtec 01 front,parts canada/power twins,268.99,0.0,131.6,0.0,10
-63351,0306-0415,mu85b-16 77h me888 marathon,parts canada/power twins,545.99,0.0,266.15,0.0,9
-63378,0306-0595,mu85b16 77h conti legend www,parts canada/power twins,489.99,0.0,318.47,0.0,9
-63387,0306-0644,140/90b16 77h av92 cobra,parts canada/power twins,585.99,0.0,253.48,0.0,9
-63422,0306-0793,130/70-18 63h battlax bt46 rea,parts canada/power twins,312.99,1.0,203.13,203.13,10
-63576,0317-0222,170/60r17 72v tl/tt anakee 3 r,parts canada/power twins,414.99,4.0,269.72,1078.88,11
-63641,0317-0498,140/80b18 70t trailmax mission,parts canada/power twins,320.99,0.0,208.62,0.0,11
-63820,0601-4843,"handlebar bro +8"" bk",parts canada/power twins,829.99,0.0,580.97,0.0,9
-64179,110-10121,140/80r17 69h tourance rear,parts canada/power twins,314.99,0.0,204.72,0.0,9
-64391,1224-0032,regina 525 zrp chain 120 links,parts canada/power twins,347.99,1.0,163.445,163.445,9
-64394,1224-0041,regina 530 zrt chain 120 links,parts canada/power twins,278.99,0.0,181.32,0.0,11
-64451,1310-2266,shock 412 triumph 12.5,parts canada/power twins,547.99,1.0,383.57,383.57,9
-64452,1310-2269,shock 412 tri 12.5 hd,parts canada/power twins,547.99,0.0,383.57,0.0,9
-64463,132893,boot t3s yth bk/yl/rd 7,parts canada/power twins,259.99,0.0,194.96,0.0,11
-64491,1343400,130/70-18 63h sport demon rear,parts canada/power twins,341.99,0.0,222.27,0.0,10
-64860,1801-1231,"15-20 scout twin slash 3"" so b",parts canada/power twins,734.99,0.0,372.9,0.0,10
-64865,1802-0333,"4"" black end cap (pr)",parts canada/power twins,289.99,0.0,202.97,0.0,10
-64869,1802-0342,"4"" machined end cap slot blk",parts canada/power twins,374.99,0.0,262.47,0.0,9
-64960,1811-3136,"4"" mufflers indian chrm w/blk",parts canada/power twins,1044.99,0.0,752.36,0.0,10
-64978,1811-3399,17-20 scout slip-ons fish/t ch,parts canada/power twins,744.99,0.0,349.99,0.0,9
-65238,2040-2694,light bagz smklens indian,parts canada/power twins,284.99,0.0,199.47,0.0,9
-65357,216524,s-100 cleaner 100 liter drum,parts canada/power twins,1339.99,0.0,870.97,0.0,10
-65384,2210-0362,speedo-multi meter tnt wh,parts canada/power twins,269.99,0.0,187.57,0.0,10
-65672,2811-0646,pants missile v3 a bb 46,parts canada/power twins,649.99,0.0,487.46,0.0,10
-65675,2811-0665,pants missile v3 bk 46,parts canada/power twins,649.99,0.0,487.46,0.0,10
-65676,2811-0666,pants missile v3 bk 48,parts canada/power twins,649.99,0.0,487.46,0.0,10
-65831,3017-91,mt90b16 bw 74h d402 rear dunlo,parts canada/power twins,301.99,0.0,147.2,0.0,11
-65833,3020-91,mt90b16 72h d402 hd front oe,parts canada/power twins,256.99,0.0,125.27,0.0,11
-66385,3411-0613,boot t3s yth bk/yl/rd 7,parts canada/power twins,259.99,0.0,194.96,0.0,11
-66682,3807-0263,optimate 3 x 4 bank,parts canada/power twins,350.99,3.0,198.46,595.38,10
-66683,3807-0263,optimate 3 x 4 bank,parts canada/power twins,350.99,3.0,198.46,595.38,10
-66685,3807-0266,optimate lithium 4 bank,parts canada/power twins,350.99,0.0,193.35,0.0,10
-66713,3807-0574,optimate 2 duo x4 bank,parts canada/power twins,390.99,1.0,216.0,216.0,9
-67129,4402-0854,packtalk bold jbl single,parts canada/power twins,459.99,0.0,211.22,0.0,11
-67136,4402-0898,50r low profile system,parts canada/power twins,484.99,0.0,339.26,0.0,10
-67141,4402-0908,freecom 4x - single,parts canada/power twins,363.99,0.0,254.77,0.0,11
-68187,950202,525zvmxx110 g/g super x ring,parts canada/power twins,311.99,0.0,155.27,0.0,9
-68188,950203,525zvmxx120 g/g super x ring,parts canada/power twins,339.99,0.0,169.39,0.0,9
-68243,Aug-42,84-99 evo 42mm total carb kit,parts canada/power twins,935.99,1.0,542.02,542.02,11
-68844,1019700-266,substituted by 1024706-266,polaris,788.99,0.0,560.18,0.0,11
-68872,1023214-1617,"fender assembly, rear, cs blk",polaris,1185.99,0.0,842.05,0.0,11
-68873,1023214-266,substituted by 1027326-266,polaris,1115.99,0.0,792.35,0.0,11
-68902,1024443-2062,"weld-tank,fuel,ms,sprtblue/gx",polaris,2711.99,0.0,2169.59,0.0,11
-68905,1024443-800,"weld-tank,fuel,ms,onyxblk",polaris,2711.99,0.0,2169.59,0.0,11
-68910,1024706-2056,"asm-fender,frt,vr,slvqrtz/gx",polaris,1547.99,0.0,1238.39,0.0,9
-68911,1024706-266,"asm-fender,frt,vr,blk",polaris,788.99,0.0,560.18,0.0,11
-68912,1024706-800,"asm-fender,frt,vr,onyxblk",polaris,897.99,0.0,682.47,0.0,9
-68928,1025271-866,"asm-fender,rr,onyx,blk,smk",polaris,1641.99,1.0,1165.81,1165.81,10
-68932,1025320-866,"asm-fender,frt,onyx,blk,smk",polaris,1070.99,0.0,760.4,0.0,10
-68941,1025508-675,"asm-tank,fuel,wht smk",polaris,2711.99,0.0,2169.59,0.0,11
-68946,1026044-727,"asm-lid,saddlebag,lh,dpwtrmt",polaris,967.99,0.0,735.67,0.0,9
-68949,1026492-2034,"asm-tank,fuel,onyx,blk,smk,gx",polaris,2711.99,0.0,2169.59,0.0,10
-68954,1026918-2062,"weld-tank,fuel,ms,sprtblue/gx",polaris,2583.99,0.0,2067.19,0.0,10
-68955,1026918-800,"weld-tank,fuel,ms,onyxblk",polaris,2583.99,0.0,2067.19,0.0,9
-68957,1027326-2056,"asm-fender,rear,vrl,",polaris,1288.99,0.0,902.29,0.0,11
-68958,1027326-266,"asm-fender,rear,vrl,blk",polaris,1115.99,0.0,792.35,0.0,10
-68959,1027326-800,"asm-fender,rear,vrl,onyxblk",polaris,1288.99,0.0,902.29,0.0,9
-68978,1206128-266,"asm-primary cover,cr blk",polaris,897.99,0.0,592.67,0.0,10
-68982,1240058,extrusion gripper/de-icer,polaris,364.99,0.0,291.99,0.0,11
-68993,1262907-266,substituted by 1262907-458,polaris,544.99,0.0,381.49,0.0,11
-68994,1262907-458,"asm-muffler,lwr,blk",polaris,544.99,0.0,381.49,0.0,11
-68997,1262908-266,substituted by 1262908-458,polaris,544.99,0.0,381.49,0.0,11
-68998,1262908-458,"asm-muffler,upr,blk",polaris,544.99,0.0,381.49,0.0,11
-69001,1263055-922,"weld-shield,exh,frnt,lv,blk",polaris,513.99,0.0,308.27,0.0,9
-69035,1263415-156,"weld-exh,shield,cat,chr",polaris,378.99,0.0,208.44,0.0,10
-69040,1263453-156,"asm-muffler,upr,chr",polaris,544.99,0.0,381.49,0.0,10
-69053,1263501-266,substituted by 1263501-458,polaris,273.99,0.0,219.19,0.0,9
-69054,1263501-458,"weld-shield,exh,frnt,v,lv,blk",polaris,273.99,0.0,219.19,0.0,9
-69056,1263503-458,"weld-shield,exh,rr,up,v,l,blk",polaris,273.99,0.0,219.19,0.0,11
-69278,2415173,"switchcrl,3row,lh,500k",polaris,583.99,0.0,437.99,0.0,11
-69325,2635146,tour lock kit assembly,polaris,256.99,0.0,154.19,0.0,11
-69522,286065303,mw denton jkt-m,polaris,619.99,0.0,402.99,0.0,11
-69537,286065806,ww zoe jkt-l,polaris,359.99,1.0,233.99,233.99,9
-69539,286065812,ww zoe jkt-2xl,polaris,359.99,1.0,233.99,233.99,9
-69564,286073803,ww idaho waxed jkt-m,polaris,449.99,2.0,292.49,584.98,9
-70027,286170009,"mens moc toe boot br, 9",polaris,299.99,2.0,194.99,389.98,9
-70029,286170011,"mens moc toe boot br, 11",polaris,299.99,2.0,194.99,389.98,9
-70030,286170012,"mens moc toe boot br, 12",polaris,299.99,2.0,194.99,389.98,9
-70040,286170308,"mens lace up boot bk, 8",polaris,299.99,1.0,194.99,194.99,9
-70041,286170309,"mens lace up boot bk, 9",polaris,299.99,2.0,194.99,389.98,9
-70042,286170310,"mens lace up boot bk, 10",polaris,299.99,2.0,194.99,389.98,9
-70044,286170312,"mens lace up boot bk, 12",polaris,299.99,2.0,194.99,389.98,9
-70045,286170313,"mens lace up boot bk, 13",polaris,299.99,2.0,194.99,389.98,9
-70191,286273903,"wmns lindy vest bk, m",polaris,259.99,4.0,168.99,675.96,9
-70194,286273912,"wmns lindy vest bk, 2xl",polaris,259.99,4.0,168.99,675.96,9
-70329,286280709,"modular matte helmet bk, xl",polaris,389.99,3.0,253.49,760.47,9
-70346,286283702,mw black hills jkt ce blk s,polaris,339.99,1.0,220.99,220.99,9
-70347,286283703,mw black hills jkt ce blk m,polaris,339.99,1.0,220.99,220.99,9
-70348,286283706,mw black hills jkt ce blk l,polaris,339.99,1.0,220.99,220.99,9
-70349,286283709,mw black hills jkt ce blk xl,polaris,339.99,1.0,220.99,220.99,9
-70350,286283712,mw black hills jkt ce blk 2xl,polaris,339.99,1.0,220.99,220.99,9
-70351,286283802,ww black hills jkt ce blk s,polaris,339.99,1.0,220.99,220.99,9
-70354,286283809,ww black hills jkt ce blk xl,polaris,339.99,1.0,220.99,220.99,9
-70355,286283812,ww black hills jkt ce blk 2xl,polaris,339.99,1.0,220.99,220.99,9
-70359,286284309,mw beckman jkt 2 ce blk xl,polaris,559.99,1.0,363.99,363.99,9
-70361,286284314,mw beckman jkt 2 ce blk 3xl,polaris,559.99,1.0,363.99,363.99,9
-70373,28628463232,mw riding jean ce blk 32 x 32,polaris,284.99,2.0,185.24,370.48,9
-70374,28628463432,mw riding jean ce blk 34 x 32,polaris,284.99,2.0,185.24,370.48,9
-70375,28628463434,mw riding jean ce blk 34 x 34,polaris,284.99,1.0,185.24,185.24,9
-70376,28628463632,mw riding jean ce blk 36 x 32,polaris,284.99,2.0,185.24,370.48,9
-70377,28628463634,mw riding jean ce blk 36 x 34,polaris,284.99,1.0,185.24,185.24,9
-70378,28628463832,mw riding jean ce blk 38 x 32,polaris,284.99,2.0,185.24,370.48,9
-70396,286285309,ww riding legging blk xl,polaris,299.99,2.0,194.99,389.98,9
-70397,286285312,ww riding legging blk 2xl,polaris,299.99,2.0,194.99,389.98,9
-70398,286285314,ww riding legging blk 3xl,polaris,299.99,1.0,194.99,194.99,9
-70569,286295302,gloss stripe hlmt ece sil s,polaris,359.99,1.0,233.99,233.99,9
-70570,286295303,gloss stripe hlmt ece sil m,polaris,359.99,1.0,233.99,233.99,9
-70571,286295306,gloss stripe hlmt ece sil l,polaris,359.99,1.0,233.99,233.99,9
-70572,286295309,gloss stripe hlmt ece sil xl,polaris,359.99,1.0,233.99,233.99,9
-71126,2879542-06,"kit-backrest,rider,tan/studs",polaris,554.99,0.0,388.49,0.0,10
-71136,2879577-01,"kit-bag,windshield,blk",polaris,259.99,1.0,181.99,181.99,10
-71149,2879666-06,"kit-pad,backrest,pass,desert t",polaris,384.99,0.0,269.49,0.0,9
-71171,2880068,3 point seat belt kit,polaris,307.99,0.0,215.59,0.0,11
-71172,2880069,"kit-seatbelt,3 pt front sp",polaris,307.99,0.0,215.59,0.0,11
-71206,2880234-01,"kit-saddlebags,n,blk",polaris,1349.99,4.0,944.99,3779.96,11
-71211,2880239-626,"kit-controls,rr,n,blk",polaris,259.99,5.0,181.99,909.95,9
-71212,2880239-650,"kit-controls,rr,n,ti slv",polaris,259.99,3.0,181.99,545.97,11
-71233,2880654-156,"kit-airbox,indn,50 st,pac,chr",polaris,705.99,3.0,493.7,1481.1,10
-71332,2881790-463,"k-shock-rear,scout,acc,mblk",polaris,1284.99,2.0,899.49,1798.98,11
-71333,2881796,windshield touring  kit,polaris,474.99,0.0,356.24,0.0,9
-71371,2882563-02,"kit-seat,heated,1pc,ind,blk",polaris,1219.99,0.0,853.99,0.0,10
-71377,2882853-LNA,"k-seat,pass,sc,w/backrest,brn",polaris,619.99,10.0,433.99,4339.9,10
-71378,2882853-VBA,"k-seat,pass,sc,w/backrest,blkv",polaris,579.99,9.0,405.99,3653.91,11
-71410,2883449-266,"k-hndlbar,mid-ape,blk",polaris,489.99,0.0,342.99,0.0,10
-71414,2883500-FBA,"k-sidebag,msgr,blk",polaris,389.99,0.0,272.99,0.0,11
-71469,2883900,"k-cowl,seat w/pad",polaris,534.99,0.0,374.49,0.0,9
-71570,2884226-VNA,"k-seat,driver,comf,brown",polaris,389.99,9.0,226.09,2034.81,10
-71638,2884677,k-wind deflector mount,polaris,259.99,5.0,181.99,909.95,11
-71645,2884708-266,"k-light,driving,led,blk",polaris,294.99,4.0,206.49,825.96,9
-71647,2884711-266,"k-light,mnt,chftn,blk",polaris,294.99,2.0,206.49,412.98,11
-71652,2884721-156,"k-exh tip,slash,chr",polaris,424.99,0.0,297.49,0.0,10
-71661,2884775-266,"k-fog light,blk",polaris,409.99,2.0,286.99,573.98,9
-71663,2884801-VBA,"k-backrest,bagr,pass,vinyl",polaris,254.99,4.0,178.49,713.96,10
-71673,2884899-266,"k-mount,driving light,3.5 ,blk",polaris,279.99,2.0,195.99,391.98,11
-71693,2884996-266,"k-hdlt,adapt,5 ,h4,blk",polaris,704.99,3.0,493.49,1480.47,10
-71699,2885004-156,"k-rack,solo,chr",polaris,424.99,1.0,297.49,297.49,10
-71718,2885172,"k-seat,elite",polaris,359.99,0.0,251.99,0.0,11
-71744,2889301-156,"k-handlebar,redrch,v,chr",polaris,269.99,0.0,188.99,0.0,11
-71745,2889301-266,"k-handlebar,redrch,v,blk",polaris,279.99,1.0,195.99,195.99,11
-71760,2889385-VBB,"k-seat,synsolo,blkvyl",polaris,324.99,3.0,227.49,682.47,10
-71773,2889605-156,"k-base,trunk,chr",polaris,519.99,1.0,363.99,363.99,11
-71779,2889609-869,"k-trunk,slvqtzmet",polaris,2319.99,0.0,1623.99,0.0,11
-71785,2889651-463,"k-fairing,qrtr,can,blksmk",polaris,679.99,0.0,475.99,0.0,9
-71951,4015220,substituted by 4016189,polaris,814.99,0.0,611.24,0.0,11
-71952,4015234,substituted by 4016189,polaris,814.99,0.0,611.24,0.0,11
-71957,4015586,substituted by 4017283,polaris,608.99,0.0,365.39,0.0,11
-71998,4019661,"regulator-volt,ixys diode,blk",polaris,410.99,0.0,287.69,0.0,10
-72422,5454540-266,"airbox bezel, cruiser black",polaris,256.99,0.0,182.46,0.0,9
-72428,5454594-727,"fairing-front,nvyblu",polaris,1256.99,0.0,892.46,0.0,9
-72455,5455392-675,"bin-trunk,ind,pwhtsmk",polaris,1153.99,0.0,865.49,0.0,9
-72471,5456261-675,"lid,trunk,al rack,whtsmk",polaris,1782.99,0.0,1355.07,0.0,9
-72478,5456385-1888,"asm-saddlebag,clsc,lh,",polaris,1564.99,0.0,1173.74,0.0,11
-73418,1017022/A,fork end lh assy,royal enfield,271.99,0.0,175.69,0.0,11
-73492,148721,"fuel tank, painted, ice queen",royal enfield,624.99,1.0,406.0,406.0,10
-73528,1750044/B,aluminium pannier silver,royal enfield,930.99,6.0,733.63,4401.78,10
-73532,1760097/D,"compact engine guard,",royal enfield,258.99,2.0,161.0,322.0,10
-73555,1990401,"bar end mirror kit,",royal enfield,349.99,0.0,231.0,0.0,10
-73567,1990454,"touring mirror kit,",royal enfield,335.99,0.0,224.0,0.0,10
-73580,330-0709,camshaft kit bolt (royal enfiel 650,royal enfield,279.99,1.0,105.53,105.53,10
-73769,6000003,re nacs ii - dol tool,royal enfield,1938.99,0.0,1260.0,0.0,11
-73789,890022,crank case box assy- d1,royal enfield,1615.99,0.0,1050.0,0.0,11
-73790,920-0145,big bore kit 865cc (royal enfield 650,royal enfield,1099.99,1.0,399.95,399.95,10
-73791,AD1LA001,ga-d1- engine complete,royal enfield,4307.99,0.0,2800.0,0.0,11
-73792,AJ1LA002,j1 engine assy textured black-,royal enfield,2696.99,0.0,2073.88,0.0,9
-73807,KAB00267/A,fr caliper p81 -anodized (no p,royal enfield,329.99,4.0,235.12,940.48,10
-73808,KAB00268/A,rear caliper p81 -anodized (no,royal enfield,335.99,5.0,239.51,1197.55,10
-73810,KLH00008/A,cylinder head & rocker,royal enfield,469.99,0.0,293.45,0.0,9
-73811,KLH00017/A,"cylinder head assembly, fins m",royal enfield,372.99,0.0,310.72,0.0,9
-73883,RAK00234/A,fuel tank with sticker j1d - y,royal enfield,478.99,0.0,290.0,0.0,9
-73898,RAM00186/A,instrument cluster,royal enfield,313.99,0.0,241.18,0.0,9
-73899,RAM00225/C,instrument cluster mph (with,royal enfield,289.99,0.0,186.97,0.0,9
-74095,A9640208,fox rsu pair long,savage cycles,1020.99,0.0,729.29,0.0,9
-74192,t2048903,"yoke assy, lower",savage cycles,392.99,0.0,267.69,0.0,10
-74309,4161015360,schuberth c5 gloss white md,schuberth,1011.15,0.0,585.0,0.0,10
-74315,4166216360,c5 dot concrete grey 59 (l),schuberth,1011.15,0.0,606.69,0.0,10
-74316,4167115360,matte black c5 med,schuberth,1011.15,0.0,606.69,0.0,9
-74320,4169056360,c5 dot master blue 59 (l),schuberth,1146.15,0.0,687.69,0.0,9
-74428,4449145360,e1 tuareg yellow 57 md,schuberth,974.49,0.0,545.22,0.0,9
-74540,4566016360,c4 glossy silver l,schuberth,999.0,0.0,702.57,0.0,11
-74574,4568246360,c4 pro carbon tempest yellow 59,schuberth,1174.49,0.0,666.16,0.0,11
-74586,4568326360,c4 pro carbon avio red l,schuberth,1174.49,0.0,666.16,0.0,11
-82679,N81-16XDiavel,xdiavel frame sliders,t-rex racing,340.94,0.0,252.55,0.0,9
-83874,255435,110/90-16 59v battlax bt46 fr,thibault canada,295.99,0.0,192.39,0.0,10
-83896,258301,100/90-16 54h t/l battlax bt46,thibault canada,251.99,0.0,120.15,0.0,9
-83902,258541,120/80-17 61h t/l battlax bt46,thibault canada,271.99,0.0,176.79,0.0,9
-84336,4261641,"180/55zr17,(73w),rosso,4",thibault canada,393.99,1.0,165.27,165.27,9
-84412,4264227,150/80b16 m/c rein tl 77h nigh,thibault canada,361.99,0.0,185.55,0.0,9
-84418,4264311,130/90-16 tl 67h night dragon fr,thibault canada,327.99,0.0,213.19,0.0,9
-84419,4264316,130/90-16 m/c 73h tl dragon fr,thibault canada,341.99,0.0,222.29,0.0,11
-84422,4264403,100/90-18 tl 65h phantom sport,thibault canada,275.99,0.0,139.92,0.0,11
-84451,4264926,120/70r19 m/c (60v) tl scorpio,thibault canada,354.99,0.0,152.09,0.0,11
-84457,4264939,170/60r17 m/c (72v) tl scorpio,thibault canada,442.99,0.0,192.15,0.0,9
-84597,5262581,180/70r16 77v tl me888 oe triu,thibault canada,578.99,0.0,291.01,0.0,10
-84623,5262678,150/80r16 m/c 71v tl me888 fr.,thibault canada,524.99,0.0,264.65,0.0,10
-84704,5264425,150/70r18 mc/tl 70v tourance n,thibault canada,401.99,1.0,261.29,261.29,10
-84930,6264203,150/80-16 71h fr.avon cobra ch,thibault canada,445.99,0.0,190.12,0.0,10
-85261,800100,tire changer with left arm hel,thibault canada,2649.99,0.0,2649.99,0.0,10
-85262,800200,wheel balancer with,thibault canada,2649.99,0.0,2649.99,0.0,10
-85265,800600,motorcycle table 24'x84' blk 1,thibault canada,1199.99,0.0,1199.99,0.0,10
-85317,RAVG2116,elect.balancer g2.116r 120v/1/,thibault canada,4999.99,0.0,4999.99,0.0,10
-85393,076AF5107,givi windscreen sliding clear,thibault canada,279.99,0.0,195.99,0.0,10
-85474,132708,did 525zvmx-124l g/g s/street,thibault canada,343.99,0.0,223.59,0.0,11
-85511,214Z2474,%wsvstreammid lt tintf700gs,thibault canada,459.99,0.0,321.99,0.0,10
-85514,226252,120/70b19 60t fr.trailmax miss,thibault canada,260.99,0.0,169.64,0.0,10
-85515,226258,170/60b17 72t rr.trailmax miss,thibault canada,381.99,0.0,248.29,0.0,10
-85550,267003,120/70zr19 60w fr. mutant dunl,thibault canada,292.99,0.0,190.44,0.0,9
-85551,267006,170/60zr17 72w rr. mutant dunl,thibault canada,335.99,0.0,218.39,0.0,9
-85586,40870002,chain maintenance set,thibault canada,309.99,0.0,216.99,0.0,10
-85587,40870003,motorcycle chain maintenance,thibault canada,339.99,0.0,237.99,0.0,10
-85642,4261624,120/70zr17 diablo rosso 3,thibault canada,291.99,0.0,189.79,0.0,11
-85647,4262115,120/70-17 pirelli supercorsa v3 front,thibault canada,400.99,0.0,260.64,0.0,9
-85648,4262121,200/55zr17 tl (78w)v3 sp diabl,thibault canada,671.99,0.0,436.79,0.0,9
-85681,5262569,180/60r16 reinf tl 80h me888,thibault canada,574.99,0.0,373.74,0.0,9
-85701,6251715,120/70 r 19 60v tl tkc70 m+s,thibault canada,361.99,0.0,235.29,0.0,9
-85713,6502844,exo-st1400 gloss black carbon,thibault canada,629.99,0.0,472.49,0.0,10
-85735,7526709154,ladakh 3l d-dry pants blk/blk,thibault canada,579.99,0.0,434.99,0.0,11
-85737,7527525136,denim blast regular tex pants,thibault canada,299.99,0.0,224.99,0.0,10
-85738,7536707146,ladakh 3l d-dry lady pants bla,thibault canada,579.99,0.0,434.99,0.0,11
-86357,A2307151,"grabrack, kit",triumph,405.99,0.0,263.25,0.0,11
-86365,A2308986,heated rider seat,triumph,435.99,0.0,282.75,0.0,11
-86503,A9501308,"top box, 46l",triumph,465.99,0.0,302.25,0.0,10
-86504,A9501309,"top box, 52l",triumph,465.99,0.0,302.25,0.0,9
-86667,A9510553,"tail pack, qr",triumph,285.99,2.0,185.25,370.5,11
-86733,A9518171,magnetic tank bag spts,triumph,260.99,1.0,169.0,169.0,11
-86904,A9600673,silencer street scrambler,triumph,1240.99,0.0,620.0,0.0,9
-87189,A9631556,heated grip kit,triumph,445.99,3.0,289.25,867.75,9
-87328,A9640208,fox rsu pair long,triumph,1120.99,0.0,662.99,0.0,9
-87404,A9700379,roadster screen kit,triumph,670.99,1.0,435.5,435.5,9
-87428,A9700610,heated rider se,triumph,625.99,0.0,406.25,0.0,11
-87459,A9700891,"seat,dual,low,kit",triumph,265.99,0.0,172.25,0.0,10
-87460,A9700904,"pass seat,tour",triumph,280.99,0.0,182.0,0.0,10
-87512,A9701459,"rid seat,low he",triumph,310.99,6.0,201.5,1209.0,11
-87517,A9701522-PM,flyscreen kit,triumph,315.99,0.0,204.75,0.0,9
-87519,A9701541,"seat, rider, lo",triumph,320.99,5.0,208.0,1040.0,11
-88216,A9750803,passenger backrest kit,triumph,365.99,1.0,237.25,237.25,9
-88333,A9759192,grabrail mount kit,triumph,255.99,1.0,165.75,165.75,9
-88334,A9759193,uprights kit backrest chr,triumph,350.99,1.0,227.5,227.5,9
-88336,A9759201,rack kit chrome,triumph,290.99,3.0,188.5,565.5,9
-88376,A9770249,foot control ki,triumph,655.99,0.0,425.75,0.0,11
-88381,A9770383,centre stand,triumph,330.99,1.0,214.5,214.5,10
-88625,A9838094,"fog lamps, led",triumph,485.99,1.0,315.25,315.25,11
-90635,MBTA22801-10,corozol bts-10,triumph,419.99,0.0,272.96,0.0,11
-90636,MBTA22801-11,corozol bts-11,triumph,419.99,0.0,272.96,0.0,11
-90637,MBTA22801-12,corozol bts-12,triumph,419.99,0.0,272.96,0.0,11
-90642,MBTA22803-10.5,smx 6vd bts-10.5,triumph,369.99,0.0,240.46,0.0,11
-90643,MBTA22803-11.5,smx 6vd bts-11.5,triumph,369.99,0.0,240.46,0.0,11
-90644,MBTA22803-12,smx 6vd bts-12,triumph,369.99,0.0,240.46,0.0,11
-90646,MBTA22803-9,smx 6vd bts-9,triumph,369.99,0.0,240.46,0.0,11
-90798,MDJS20200-30R,rokker jean,triumph,449.99,1.0,292.49,292.49,11
-91029,MGVS18122-XXL,malvern glove,triumph,251.99,0.0,176.38,0.0,10
-91247,MLES2202-M,t sport jkt-m,triumph,700.99,0.0,455.0,0.0,11
-91250,MLES2202-XXL,t sport jkt-xxl,triumph,700.99,0.0,455.0,0.0,11
-91263,MLES22107-L,lds brad air-l,triumph,639.99,1.0,415.99,415.99,11
-91265,MLES22107-S,lds brad air-s,triumph,639.99,1.0,415.99,415.99,11
-91289,MLES23800-L,ac lthr jkt-l,triumph,649.99,0.0,422.49,0.0,11
-91290,MLES23800-XL,ac lthr jkt-xl,triumph,649.99,0.0,422.49,0.0,11
-91291,MLES23800-XXL,ac lthr jkt-xxl,triumph,649.99,0.0,422.49,0.0,11
-91357,MLHS19E30-L,vance jacket,triumph,574.99,1.0,373.75,373.75,11
-91358,MLHS19E30-M,vance jacket,triumph,574.99,0.0,230.0,0.0,11
-91371,MLHS21101-XXL,braddan xxl,triumph,665.99,0.0,432.26,0.0,10
-91384,MLJS20531-30,triple jean,triumph,550.99,1.0,220.0,220.0,10
-91390,MLJS2201-36,tsport pant-36,triumph,570.99,0.0,370.5,0.0,11
-91393,MLJS2204-32,triple pant-32,triumph,570.99,0.0,370.5,0.0,9
-91441,MLLS21105-S,braddan ls jkt,triumph,639.99,0.0,415.99,0.0,9
-93067,T1127035,"piston assy, 84",triumph,787.99,0.0,511.75,0.0,9
-93886,T1261005,cam cover,triumph,605.99,0.0,121.02,0.0,11
-93975,T1266016,"cover, clutch,",triumph,293.99,0.0,190.55,0.0,11
-93978,T1267018,"assy, cover, cl",triumph,282.99,0.0,183.37,0.0,10
-94239,T2001140,"wheel, front, a",triumph,987.99,0.0,641.7,0.0,11
-94421,T2017243,chain and sproc,triumph,312.99,0.0,203.36,0.0,11
-94600,T2021395,"caliper assy, l",triumph,828.99,0.0,538.38,0.0,11
-94644,T2022080,"disc,front,floating",triumph,340.99,1.0,109.34,109.34,9
-95137,T2042372,"stanchion assy,",triumph,1077.99,0.0,700.14,0.0,10
-95151,T2042542,"fork leg assy,",triumph,809.99,0.0,525.87,0.0,11
-95152,T2042543,"fork leg assy,",triumph,809.99,0.0,525.87,0.0,11
-95190,T2043096,"yoke assy, lowe",triumph,311.99,0.0,202.4,0.0,11
-95191,T2043103,"stanchion assy,",triumph,1289.99,0.0,838.16,0.0,11
-95518,T2048903,"yoke assy, lowe",triumph,422.99,0.0,274.36,0.0,10
-95554,T2049772,"switchcube, lh,",triumph,355.99,0.0,231.1,0.0,11
-95640,T2054443,rear suspension,triumph,1302.99,0.0,846.47,0.0,11
-95670,T2057764,"rsu, tes, elect",triumph,1558.99,0.0,1012.87,0.0,9
-95785,T2071680,"spares kit, dre",triumph,536.99,0.0,348.64,0.0,9
-95820,T2075241,"cradle assy, lh",triumph,306.99,0.0,199.2,0.0,10
-95834,T2079501,"frame assy, spa",triumph,5802.99,0.0,3771.62,0.0,11
-96509,T2106301,radiator assy,triumph,767.99,0.0,498.72,0.0,11
-96681,T2202615,"headerassy,rhs",triumph,515.99,0.0,335.02,0.0,9
-96692,T2202835,"headerassy,lhs",triumph,515.99,0.0,335.02,0.0,9
-96722,T2203385,"silencer, assy,",triumph,1382.99,0.0,898.77,0.0,10
-97108,T2301959-PG,"rh fairing, jet",triumph,1004.99,0.0,652.9,0.0,9
-97214,T2303392-CX,"panel,tank, rhs",triumph,326.99,0.0,212.38,0.0,11
-97228,T2303681,"mudguard, front",triumph,528.99,0.0,343.81,0.0,11
-97275,T2304365,comfort gel sea,triumph,484.99,0.0,314.8,0.0,10
-97394,T2305676,"mudguard, front",triumph,298.99,0.0,193.79,0.0,11
-97401,T2305717,"support, mudgua",triumph,391.99,0.0,254.61,0.0,11
-97433,T2306055-PG,"sidepanel,lh,pa",triumph,367.99,0.0,239.08,0.0,10
-97709,T2308712-PG,"cowl,seat,pntd+pads,jet black",triumph,367.99,0.0,239.08,0.0,10
-97806,T2309419-MH,"rear m/guard, a",triumph,345.99,0.0,224.44,0.0,11
-97816,T2309537-PG,"sidepanel, rh,",triumph,367.99,0.0,239.08,0.0,11
-97872,T2310122,"seat, rider, co",triumph,374.99,1.0,243.24,243.24,11
-97882,T2310563,"rider seat, ass",triumph,322.99,0.0,209.74,0.0,11
-97889,T2310752,"seat, assembly",triumph,387.99,0.0,251.56,0.0,10
-97894,T2311330,"screen,moulding",triumph,468.99,0.0,304.6,0.0,10
-97903,T2311930-PM,"tankendpanel,",triumph,326.99,0.0,212.38,0.0,11
-97905,T2311931-PM,"tankendpanel,",triumph,326.99,0.0,212.38,0.0,11
-97910,T2312814,"seat, rider, lo",triumph,367.99,0.0,239.15,0.0,9
-97949,T2319125,"screen, mldg, c",triumph,450.99,0.0,293.0,0.0,10
-98160,T2401629-PG,"fuel tank,pntd+",triumph,1835.99,0.0,1192.8,0.0,11
-98173,T2401901-MH,"spares kit,fuel",triumph,1690.99,0.0,1098.63,0.0,10
-98191,T2402300-PG,"fuel tank,sprs,",triumph,1835.99,0.0,1192.8,0.0,11
-98244,T2403507-MP,fuel tank cover,triumph,560.99,0.0,364.1,0.0,11
-98255,T2405290-MH,"fuel tank,pntd+",triumph,2221.99,0.0,1443.92,0.0,9
-98257,T2405331-NW,"fuel tank,pntd+",triumph,2221.99,0.0,1443.92,0.0,9
-98258,T2405331-PR,"fuel tank,pntd+",triumph,2221.99,0.0,1443.92,0.0,9
-98261,T2405421-AA,"fuel tank,pntd+",triumph,2511.99,0.0,1632.27,0.0,9
-98262,T2405421-PG,"fuel tank,pntd+",triumph,1835.99,0.0,1192.8,0.0,10
-98498,T2503101,instrument assy,triumph,992.99,0.0,645.43,0.0,10
-98510,T2503330,lockset,triumph,601.99,0.0,391.17,0.0,10
-98523,T2503982,"instruments, mp",triumph,1113.99,0.0,723.83,0.0,10
-98539,T2504519,switch assembly,triumph,301.99,0.0,196.28,0.0,9
-98599,T2508040,inertial measurement unit,triumph,463.99,0.0,301.11,0.0,9
-98863,T2701923,"headlamp unit,",triumph,289.99,0.0,187.96,0.0,10
-98874,T2702028,"lamp, rear",triumph,276.99,0.0,179.67,0.0,10
-100224,T3880072,"charger, batter",triumph,880.99,2.0,880.69,1761.38,9
-100390,T3990145,"gasket kit,full",triumph,586.99,0.0,381.09,0.0,11
-100391,T3990146,"gasket kit,head",triumph,502.99,0.0,326.94,0.0,11
-100392,T3990147,"gasket kit,full",triumph,569.99,0.0,370.16,0.0,11
-100393,T3990148,"gasket kit,head",triumph,476.99,0.0,309.85,0.0,11
-100567,DNL.WHS.11602,denali gen ii cansmarta contro,twisted throttle,349.49,0.0,227.17,0.0,9
-100901,18090003,r18 rockbob front fender,wunderlich usa,1251.38,0.0,1088.16,0.0,10
-100905,18700114,"r18 rockbob saddle, brown leather",wunderlich usa,1877.11,0.0,1632.27,0.0,10
-100906,18710003,r18 rockbob rear fender,wunderlich usa,1820.95,0.0,1627.34,0.0,10
-100911,25911002,evo1 vario footrest rest set,wunderlich usa,295.03,0.0,256.07,0.0,9
-101017,625.3,drill bit m3 =7/64,wurth canada,304.7,0.0,3.048,0.0,10
-101350,10-08214,sr/f top rack assembly,zero motorcycles,300.0,0.0,180.0,0.0,9
-101414,24-08451,touring seat,zero motorcycles,540.0,0.0,325.0,0.0,11
+1091,BLG-013-00-NP,bark busters,amazon canada,275.5,0.0,0.0,0.0,11
+1342,7062220,bell bullit carbon mat blk xl,bell sports inc,899.99,0.0,469.77,0.0,10
+1361,7092434,srt m mat blk s,bell sports inc,479.95,0.0,256.1,0.0,11
+1365,7092438,srt m mat blk xxl,bell sports inc,479.95,0.0,256.1,0.0,9
+1437,7112230,"eliminator,vanish,mt,bk/rd,l",bell sports inc,549.99,0.0,290.37,0.0,10
+1484,7136376,"mx-9,adv,mips,dalton,blk/blu,lg",bell sports inc,319.99,0.0,160.05,0.0,9
+1497,7136686,"mx-9,adv,mips,matteblk,xl",bell sports inc,299.99,0.0,154.72,0.0,9
+1499,7136697,"mx-9,adv,mips,mrdr,m/g,blkout,lg",bell sports inc,339.99,0.0,176.06,0.0,11
+2499,11127723427,l-cylinder head cover,bmw,402.82,0.0,290.03,0.0,11
+2550,11128549653,"cylinder head cover, asphalt",bmw,402.82,0.0,290.03,0.0,9
+2589,11137708307,oil pan,bmw,495.0,0.0,360.0,0.0,9
+3722,12131542973,ignition coil,bmw,255.49,0.0,163.2,0.0,10
+3726,12132346570,ignition coil,bmw,270.49,0.0,172.8,0.0,9
+3760,12137924318,spark-plug shaft ignition co,bmw,255.49,0.0,163.2,0.0,11
+3797,12311540516,set alternator with freewhee,bmw,860.49,0.0,619.2,0.0,10
+3836,12319467618,voltage regulator,bmw,405.49,0.0,291.6,0.0,9
+3867,12418559627,starter,bmw,480.49,0.0,326.4,0.0,10
+3873,12419829398,set starter drive,bmw,275.49,0.0,198.0,0.0,10
+4714,16118394060,tank lid,bmw,630.49,0.0,453.6,0.0,10
+4878,16148564596,fuel pump assy,bmw,1060.49,0.0,763.2,0.0,11
+4881,16149444766,fuel pump unit with lever se,bmw,1120.49,0.0,806.4,0.0,9
+4905,17111600196,radiator,bmw,800.0,0.0,576.0,0.0,9
+4955,17118525108,radiator fan,bmw,530.0,0.0,381.6,0.0,9
+4958,17118525833,radiator,bmw,885.49,0.0,637.2,0.0,9
+5073,18112345851,f650 downpipe,bmw,420.0,0.0,285.6,0.0,9
+5287,18518555689,rear muffler,bmw,1430.49,0.0,900.9,0.0,10
+5298,18518562191,"exhaust manifold, chrome-pla",bmw,2890.0,0.0,2080.8,0.0,9
+5377,21212345597,diaphr:sprg,bmw,300.0,0.0,216.0,0.0,11
+5382,21217666246,clutch housing,bmw,795.0,0.0,513.4,0.0,11
+5432,21217700413,lamellar package,bmw,589.99,0.0,347.82,0.0,11
+5472,21218414017,clutch,bmw,1773.99,0.0,1117.36,0.0,11
+5502,21522333455,clutch vent pipe,bmw,300.49,0.0,216.0,0.0,11
+6041,24828395830,drive belt for cvt,bmw,385.49,0.0,277.2,0.0,11
+6118,27727678299,"belt wheel, rear",bmw,685.49,0.0,438.4,0.0,10
+6575,31427726772,"fork brace, black, lower",bmw,530.49,0.0,381.6,0.0,9
+7000,32727650777,"control assembly, brake, whi",bmw,675.49,0.0,486.0,0.0,9
+7809,33537728374,"spring strut, rear",bmw,1540.49,0.0,985.6,0.0,11
+8531,34517710736,pressure modulator,bmw,2110.49,0.0,1603.6,0.0,11
+8641,35218569755,"footbrake lever, adjustable",bmw,259.49,0.0,166.07,0.0,11
+8824,36317704344,sonnengelb front wheel,bmw,1580.49,0.0,1121.8,0.0,11
+8826,36317704680,"front wheel, dark slate",bmw,1670.49,0.0,1185.7,0.0,11
+8885,36318389055,black front wheel,bmw,1720.49,0.0,1221.2,0.0,11
+8945,36318556328,front wheel,bmw,1730.49,0.0,1245.6,0.0,9
+9028,46517691333,f650 frame,bmw,460.0,0.0,368.0,0.0,9
+9066,46518521844,rear frame,bmw,1630.49,0.0,1304.0,0.0,9
+9431,46545A097C1,luggage grid,bmw,399.49,0.0,271.39,0.0,10
+9527,46547695986,set case holder,bmw,375.49,0.0,255.17,0.0,11
+9598,46547728663,"case, left without painted p",bmw,591.99,0.0,378.66,0.0,9
+9623,46548394452,"back pad, topcase",bmw,570.49,0.0,410.4,0.0,10
+9630,46548414477,"softbag, left",bmw,1046.99,0.0,670.06,0.0,11
+9693,46548549364,"inner pocket, touring topcas",bmw,292.99,0.0,187.47,0.0,9
+9697,46548553901,"trim cover for case lid, lef",bmw,650.49,0.0,494.0,0.0,9
+9717,46549897984,lock right,bmw,300.0,0.0,219.0,0.0,9
+9878,46618556224,light white fender r1250r,bmw,335.0,0.0,254.6,0.0,9
+9892,46621542262,rear wheel cover,bmw,280.49,0.0,201.6,0.0,10
+10141,46631540816,engine spoiler stainless ste,bmw,452.99,0.0,321.5,0.0,9
+10143,46631541816,storage compartment with,bmw,1770.49,0.0,1274.4,0.0,11
+10146,46631542520,side cover right,bmw,480.49,0.0,364.8,0.0,9
+10446,46637664393,windscreen,bmw,475.49,0.0,304.0,0.0,9
+10469,46637670507,fairing bracket,bmw,1650.49,0.0,1188.0,0.0,11
+10972,46637727003,f700gs racing red front lh,bmw,600.0,0.0,456.0,0.0,10
+11018,46638382816,radiator cowl stainless stee,bmw,550.49,0.0,396.0,0.0,9
+11041,46638392880,"windshield, high",bmw,400.49,0.0,256.0,0.0,10
+11069,46638409172,headlight panel imperial blue,bmw,545.0,0.0,414.2,0.0,9
+11285,46638548073,"trim upper section, left",bmw,270.49,0.0,205.2,0.0,9
+11467,46639467643,cover storage compartment,bmw,375.49,0.0,270.0,0.0,11
+11478,46639480891,"front panel carrier, left",bmw,465.49,0.0,334.8,0.0,10
+11812,46818409128,rh fuel panel light white,bmw,945.0,0.0,718.2,0.0,9
+12245,51257698141,ignition lock with switch,bmw,260.0,0.0,208.0,0.0,11
+12265,51258540948,set uniform locking system,bmw,560.49,0.0,392.0,0.0,10
+12585,52538544792,"driver's seat, black, high,",bmw,1050.49,0.0,672.0,0.0,9
+12610,52538562135,low-profile bench seat,bmw,570.49,0.0,376.2,0.0,10
+12613,52538564838,low-profile bench seat,bmw,790.49,0.0,505.6,0.0,11
+13020,61317650281,left combination switch,bmw,437.21,0.0,299.66,0.0,10
+13185,61318522460,combination switch right,bmw,344.49,0.0,213.45,0.0,10
+13194,61318529352,combination switch right,bmw,344.49,0.0,213.45,0.0,10
+13202,61318529381,combination switch left,bmw,526.49,0.0,326.25,0.0,10
+13265,61318550037,combi switch left,bmw,890.68,0.0,641.29,0.0,11
+13420,62111691260,instrument cluster,bmw,950.0,0.0,684.0,0.0,9
+13480,62118535810,instrument cluster,bmw,1510.49,0.0,1147.6,0.0,9
+13703,63128523990,bulb xenon light,bmw,405.49,0.0,259.2,0.0,10
+13721,63128545636,high beam,bmw,465.49,0.0,334.8,0.0,10
+14115,65127106140,control unit for audio syste,bmw,1130.49,0.0,858.8,0.0,9
+14221,66127108669,"keyless ride radio-op.key, f",bmw,250.49,0.0,200.0,0.0,9
+15943,71608523399,"tool, service kit 1200",bmw,272.1,0.0,185.03,0.0,11
+17059,76118395199,jacket gs dry men's gray,bmw,302.99,0.0,230.17,0.0,10
+17338,76127922579,purerider pant 36/34,bmw,420.77,0.0,252.46,0.0,10
+17538,76128568089,jacket airshell 50 mens,bmw,660.99,0.0,396.34,0.0,11
+17594,76129899252,pants 'rider' for men,bmw,301.99,0.0,205.35,0.0,11
+17608,76138395213,jacket gs dry ladies' gray,bmw,299.99,0.0,227.88,0.0,10
+17662,76138547147,"airflow women's jacket, blac",bmw,298.49,0.0,226.83,0.0,11
+18048,76221541336,"boots, cruisecomfort 42",bmw,379.49,0.0,246.35,0.0,11
+18067,76227922714,venture grip gtx brown 39,bmw,334.49,0.0,187.1,0.0,11
+18068,76227922715,venture drip gtx 40,bmw,544.08,0.0,326.45,0.0,10
+18125,76228523100,boots sonora gtx black,bmw,449.49,0.0,269.4,0.0,10
+18437,76317105196,helmet sys 7 evo carbon ece,bmw,993.99,0.0,645.91,0.0,10
+18438,76317105210,helmet sys 7 evo carbon ece,bmw,999.49,0.0,649.35,0.0,10
+18439,76317105223,helmet sys 7 evo carbon ece,bmw,1089.49,0.0,707.85,0.0,11
+18469,76317922465,helmet gs pure desert 55 sm,bmw,850.13,0.0,442.07,0.0,9
+18657,76319899494,helmet 7 carbon moto,bmw,1086.49,0.0,738.8,0.0,10
+18995,76629446486,jacket 2-in-1 m sport unisex,bmw,298.99,0.0,152.24,0.0,9
+19242,77145A5A553,engine protection bar black,bmw,334.99,0.0,227.46,0.0,9
+19243,77145A5A554,engine protection bar black,bmw,334.99,0.0,227.46,0.0,9
+19497,77348533898,cover panel for tank hump,bmw,434.99,0.0,295.78,0.0,11
+19534,77405A3C587,side bag urban collection sm,bmw,289.99,0.0,185.51,0.0,9
+19574,77415A14875,set volume expansion,bmw,421.49,0.0,286.61,0.0,10
+19630,77418563761,"soft luggage, left",bmw,633.99,0.0,405.62,0.0,9
+19631,77418563762,"soft luggage, right",bmw,633.99,0.0,405.62,0.0,9
+19668,77419832024,touring case right,bmw,743.49,0.0,475.8,0.0,9
+19674,77419898413,touring case left,bmw,646.49,0.0,413.72,0.0,10
+19675,77419898414,touring case right,bmw,646.49,0.0,413.72,0.0,10
+19722,77438527849,topcase,bmw,739.99,0.0,473.31,0.0,11
+19723,77438527850,topcase,bmw,739.99,0.0,473.31,0.0,11
+19741,77438555738,touring topcase,bmw,1807.49,0.0,1156.75,0.0,9
+19751,77438569672,variotop case,bmw,879.49,0.0,562.87,0.0,9
+19757,77439829379,top case 30 l,bmw,546.99,0.0,349.87,0.0,10
+19759,77448396356,luggage grid,bmw,284.99,0.0,193.76,0.0,9
+19785,77452449425,tank-top bag,bmw,252.49,0.0,161.3,0.0,9
+19804,77452466686,tank-top bag,bmw,280.49,0.0,179.21,0.0,9
+19840,77492463726,rear pocket,bmw,477.49,0.0,305.56,0.0,11
+19846,77495A3C3D0,rear bag urban collection la,bmw,418.99,0.0,267.85,0.0,9
+20187,83300401792,getriebeaufnahme,bmw,529.49,0.0,439.29,0.0,10
+20417,83305A1FD97,engine mounting,bmw,302.99,0.0,251.27,0.0,9
+20419,83305A24474,adapter scherenheber,bmw,285.49,0.0,236.83,0.0,9
+20424,83305A64813,drilling template,bmw,763.99,0.0,633.96,0.0,10
+20427,83305A68857,werkzeug,bmw,1846.99,0.0,1532.9,0.0,10
+21833,CAP-ITCH,"cap,itch,heat,shield",captain itch,319.99,0.0,276.72,0.0,10
+22188,3016-000-006-660,artemis pant 6 dark grey/black,klim,749.95,0.0,487.47,0.0,10
+22441,3914-001-130-605,avalon jacket md vivid asphalt,klim,479.95,0.0,311.97,0.0,11
+22444,3914-001-140-612,avalon jacket lg  monument,klim,479.95,0.0,311.97,0.0,11
+22847,6030-002-042-604,carlsbad pant 42 cool gray,klim,679.95,0.0,441.97,0.0,10
+32129,14811231A,horizontal head camshaft,ducati,941.99,0.0,753.27,0.0,10
+32172,24220452A,generator cover,ducati,776.99,0.0,621.36,0.0,11
+32207,25120026B,water pump rotor,ducati,260.49,0.0,208.28,0.0,9
+32226,30121041AA,complete horizontal head,ducati,1666.49,0.0,1333.08,0.0,10
+32250,34111522AA,steering head,ducati,335.49,0.0,234.68,0.0,10
+32271,34912831A,complete right slider,ducati,1127.99,0.0,789.41,0.0,11
+32277,34914991A,stanchion tube,ducati,497.99,0.0,348.26,0.0,11
+32314,37010346A,swing arm,ducati,2868.99,0.0,2294.89,0.0,11
+32339,40610346A,dashboard,ducati,1073.49,0.0,751.22,0.0,11
+32441,47011811AB,frame black,ducati,4874.49,0.0,3899.45,0.0,11
+32442,47011891AT,frame,ducati,4712.99,0.0,3770.29,0.0,11
+32456,47111851CA,frame,ducati,2606.49,0.0,2084.83,0.0,11
+32467,48012493AA,upper half-fairing r.h. red,ducati,804.49,0.0,562.96,0.0,11
+32468,48012493BA,upper half-fairing l.h. red,ducati,804.49,0.0,562.96,0.0,11
+32469,48012912AG,"cover, radiator, lh",ducati,359.49,0.0,287.3,0.0,11
+32481,48017562AA,right upper fairing red,ducati,871.99,0.0,610.04,0.0,10
+32513,48120414AA,complete headlight fairing,ducati,950.49,0.0,665.31,0.0,11
+32515,481P1182AA,complete headlight fairing,ducati,1161.99,0.0,813.37,0.0,10
+32517,48211631AG,"cover , frame lh",ducati,500.99,0.0,400.72,0.0,11
+32571,50122551AB,front wheel rim,ducati,2132.49,0.0,1705.76,0.0,11
+32580,50222011AA,rear wheel rim,ducati,1631.99,0.0,1305.2,0.0,10
+32581,50222311AB,rear wheel rim,ducati,2013.99,0.0,1611.0,0.0,11
+32593,52010155A,headlight,ducati,910.99,0.0,728.41,0.0,11
+32596,52010554A,headlight,ducati,900.49,0.0,720.22,0.0,11
+32603,52320101AT,"mirror, left glossy black",ducati,277.49,0.0,194.17,0.0,11
+32619,523S0655A,rear-view mirror r.h.,ducati,407.99,0.0,285.3,0.0,9
+32647,54812611B,water cooler,ducati,947.99,0.0,663.36,0.0,11
+32648,54812612B,radiatore acqua 1803,ducati,947.99,0.0,663.36,0.0,11
+32649,54840192A,water cooler,ducati,2484.49,0.0,1987.49,0.0,9
+32657,55010051B,electric fan,ducati,260.99,0.0,182.42,0.0,11
+32683,56410293BA,front fender red,ducati,275.99,0.0,192.96,0.0,11
+32684,56410293BT,"front fender, black",ducati,275.99,0.0,192.96,0.0,11
+32697,57015182C,horizontal exhaust pipe,ducati,307.99,0.0,246.39,0.0,11
+32706,57315071B,silencer,ducati,2132.49,0.0,1705.76,0.0,11
+32707,57315071C,muffler,ducati,2132.49,0.0,1705.77,0.0,11
+32708,57315072C,silencer,ducati,2132.49,0.0,1705.77,0.0,11
+32725,58610441CW,fuel tank orange/black strip,ducati,2705.49,0.0,2164.29,0.0,11
+32728,58612061AW,tank white,ducati,3649.99,0.0,2919.7,0.0,10
+32739,58613044AA,fuel tank,ducati,2606.49,0.0,2084.83,0.0,11
+32800,61911701A,cpu-rear caliper line,ducati,318.49,0.0,175.15,0.0,9
+32847,67620571A,final drive kit,ducati,370.49,0.0,203.59,0.0,10
+32848,67621301A,final drive kit,ducati,333.99,0.0,183.54,0.0,11
+32852,67641032A,chain regina 530 136 zrpb2 x108,ducati,347.49,0.0,190.99,0.0,9
+33238,819Z0021B,rear wheel spindle,ducati,1184.99,0.0,947.65,0.0,10
+33253,82411703AB,rear l.h. plate,ducati,359.99,0.0,251.73,0.0,11
+33469,889450115,wurth box 0962 330 043,ducati,722.49,0.0,649.82,0.0,9
+33522,96280911AA,lowered suspension kit v20e,ducati,353.99,0.0,247.54,0.0,11
+33535,96480933A,complete racing exhaust,ducati,3858.99,0.0,2701.22,0.0,9
+33537,96480961A,racing complete exhaust,ducati,3495.99,0.0,2447.05,0.0,9
+33576,96780241A,pill.rider seat soft bag kit 1,ducati,270.99,0.0,108.33,0.0,11
+33598,96781851AA,set protezioni laterali 1900,ducati,896.99,0.0,717.5,0.0,9
+33621,96880661A,lowered seat 1504 pp,ducati,297.99,0.0,208.36,0.0,9
+33692,97381031AA,lateral protection set rizoma,ducati,252.99,0.0,177.02,0.0,11
+33697,97381951AA,set paracoppa 1900,ducati,640.99,0.0,448.44,0.0,9
+33707,97780131AA,kit serbatoio secondario 1900,ducati,2325.49,0.0,1860.38,0.0,9
+33721,97980831C,enduro 1508/1817/v20e pack,ducati,2097.49,0.0,1468.09,0.0,11
+33730,97981121aa,xdiavel nera colour set - red,ducati,2958.0,0.0,2958.0,0.0,9
+33731,97981201AA,pack offroad,ducati,1927.99,0.0,1349.59,0.0,9
+33837,981070754,jacket fighter c1 54,ducati,649.49,0.0,356.95,0.0,11
+33841,981071338,fabric jacket speed air c2 xxx,ducati,329.49,0.0,230.3,0.0,11
+33854,981072954,jacket speed evo c2 perf. 54,ducati,849.49,0.0,594.3,0.0,10
+33855,981073152,leather trousers company c4,ducati,639.49,0.0,447.3,0.0,11
+33858,981077045,jacket outdoor c3 man l,ducati,449.49,0.0,314.3,0.0,9
+33859,981077154,helmet d.corse power ece 22-06,ducati,1199.49,0.0,899.25,0.0,11
+33860,981077204,helmet xdiavel ece m,ducati,2999.95,0.0,2249.96,0.0,9
+33861,981077245,back protector comp. 3 wave,ducati,259.49,0.0,194.25,0.0,10
+34081,bmcylinder381,master cylinder r90,eurotech motorsports,635.0,0.0,0.0,0.0,11
+34138,09-0916,"arai,regent-x,gunm/frost,lg",full bore,749.99,0.0,458.97,0.0,11
+34830,22-0116,170/60-17 anla capra-x,full bore,284.9,0.0,136.61,0.0,11
+35042,66-14459,crash bar-bmw f750-850gs(18),full bore,326.95,0.0,273.56,0.0,9
+36044,122489,"100/90-19,57v,battlax,adv,trail,",kimpex,293.99,0.0,130.51,0.0,9
+36554,334963,jeans covert evo straig reg,kimpex,279.99,0.0,146.99,0.0,10
+36778,397174,helm horizon skid bk/ye hvs l,kimpex,279.99,2.0,149.54,299.08,11
+37013,830465,helmet signet-x diamond wh xl,kimpex,1009.99,1.0,643.87,643.87,11
+37021,830523,helmet signet-x pearl bk m ara,kimpex,989.99,0.0,603.94,0.0,9
+37424,MIT24030,170/60-17 e-07+ dakar,mavrick,310.45,0.0,156.46,0.0,9
+45155,515-1105,150/70b17tl 69h k76,motovan,310.99,0.0,202.14,0.0,9
+45717,566-15026,"mss.11.953.10100/b.skidplate,",motovan,622.99,0.0,448.55,0.0,11
+46346,77-13202,rf-1400 prologue tc-10 s,motovan,939.99,0.0,676.79,0.0,11
+48369,147-1002,750lb cross bar alum. ramp 122,motovan,381.99,0.0,255.93,0.0,9
+49146,566-11860,kobra hguard,motovan,307.99,0.0,221.75,0.0,9
+49153,566-14504,crashbar bmw r1250 gs / r / rs,motovan,599.99,0.0,431.99,0.0,9
+49258,77-13113,rf-1400 white m,motovan,799.99,0.0,575.99,0.0,10
+49261,77-13543,rf-1400 accolade tc-10 m,motovan,939.99,0.0,676.79,0.0,9
+49574,0101-14646,rpha 1 matte black xs,parts canada/power twins,1049.99,0.0,734.96,0.0,10
+49575,0101-14647,rpha 1 matte black sm,parts canada/power twins,1049.95,0.0,734.96,0.0,11
+49598,0301-0081,120/70zr17 58w u pilot power 2,parts canada/power twins,294.99,0.0,186.47,0.0,11
+49610,0301-0436,120/70zr19 60w commander ii fr,parts canada/power twins,395.95,0.0,257.37,0.0,11
+49625,0301-0605,120/70zr17 (58w) diablo rosso 3,parts canada/power twins,288.99,0.0,187.82,0.0,10
+49647,0301-0738,120/70zr19 (60w) battlecruise,parts canada/power twins,311.99,0.0,202.77,0.0,11
+49654,0301-0776,120/70r17 58v me888 marathon u,parts canada/power twins,316.99,0.0,206.02,0.0,9
+49715,0302-0849,170/60zr17 (72w) pilot road 4 gt,parts canada/power twins,392.99,0.0,255.42,0.0,11
+49763,0302-1261,180/60r16 80h av92 cobra,parts canada/power twins,594.95,0.0,386.72,0.0,9
+49774,0302-1349,190/50zr17 (73w) battlax s22 r,parts canada/power twins,378.95,0.0,246.32,0.0,9
+49800,0302-1565,200/55zr17 (78w) diablo rosso,parts canada/power twins,497.95,0.0,323.67,0.0,10
+49807,0302-1608,170/60zr17 (72w) road 6 rear,parts canada/power twins,501.95,0.0,326.27,0.0,10
+49813,0302-1653,180/55zr17 (73w) diablo rosso,parts canada/power twins,433.95,0.0,282.07,0.0,9
+49817,0303-0063,120/70zr19 (60w) d208 v-rod fr,parts canada/power twins,384.95,0.0,250.22,0.0,11
+49824,0304-0023,180/55zr18 74w exedra g850r re,parts canada/power twins,330.95,0.0,215.12,0.0,11
+49868,0305-0519,120/70b21 68h me888 marathon,parts canada/power twins,426.95,0.0,277.52,0.0,9
+49869,0305-0527,120/70b17 58v me888 front metz,parts canada/power twins,367.99,0.0,239.17,0.0,11
+49878,0305-0628,120/70-21 68v av91 cobra chrome,parts canada/power twins,531.95,0.0,345.77,0.0,9
+49882,0305-0681,120/70b21 68h tl/tt commander iii,parts canada/power twins,482.95,0.0,313.92,0.0,9
+49887,0305-0817,90/90b18 51h road classic fron,parts canada/power twins,485.95,0.0,315.87,0.0,11
+49909,0306-0324,180/65b16 81h american elite m,parts canada/power twins,460.95,0.0,299.62,0.0,11
+49911,0306-0421,160/70b17 79v me888 reinforced,parts canada/power twins,513.99,0.0,334.07,0.0,11
+49918,0306-0606,120/70zr19 60w scorpion trail 2,parts canada/power twins,380.99,0.0,247.62,0.0,10
+49922,0306-0663,180/55b18 80h cruisetec rear,parts canada/power twins,576.95,0.0,375.02,0.0,11
+49927,0306-0702,180/55b18 80h tl/tt commander,parts canada/power twins,577.95,0.0,375.67,0.0,11
+49930,0306-0767,100/90-18 56v roadrider mkii f,parts canada/power twins,272.95,0.0,177.42,0.0,10
+49938,0306-0835,4.00b18 64h road classic rear,parts canada/power twins,456.95,0.0,297.02,0.0,11
+49939,0308-0001,mu85b16 77h d402 hd rear oe,parts canada/power twins,313.95,0.0,204.07,0.0,11
+49941,0308-0006,160/70vb17 73v lasertec rear,parts canada/power twins,424.95,0.0,276.22,0.0,11
+49990,0316-0271,110/80r19 59v tourance next (b,parts canada/power twins,297.99,0.0,193.67,0.0,11
+50010,0316-0354,120/70r19 60v conti trail atta,parts canada/power twins,378.95,0.0,246.32,0.0,9
+50016,0316-0362,90/90-21 54v tl/tt anakee adve,parts canada/power twins,345.99,0.0,224.87,0.0,11
+50017,0316-0381,120/70zr19 60w road 5 trail fr,parts canada/power twins,433.99,0.0,282.07,0.0,10
+50037,0317-0153,150/70r17 69v tourance next,parts canada/power twins,419.99,0.0,272.97,0.0,11
+50059,0317-0244,4.00-18 64t tkc70 rear,parts canada/power twins,304.95,0.0,198.22,0.0,11
+50078,0317-0354,170/60r17 72v scorpion trail 2,parts canada/power twins,453.99,0.0,295.07,0.0,10
+50097,0317-0449,170/60zr17 72w conti trail att,parts canada/power twins,494.95,0.0,321.72,0.0,9
+50110,0317-0559,140/80r17 69s tkc70 rocks rear,parts canada/power twins,444.95,0.0,289.22,0.0,9
+50257,1020-3851,pc-6 suz w/i sv650 03-06,parts canada/power twins,809.95,0.0,566.97,0.0,10
+50258,1020-3898,pc-6 tri w/i t120 16-20,parts canada/power twins,809.95,0.0,566.97,0.0,10
+50473,1601-0510,shift sensor pc-v dual,parts canada/power twins,459.95,0.0,321.97,0.0,10
+50527,165637,yix30l-bs-pw w/acid pack,parts canada/power twins,274.95,0.0,192.46,0.0,11
+50616,1811-3710,2019 r1250rt slip-on ti/cf,parts canada/power twins,1839.95,0.0,1379.96,0.0,10
+50625,1812-0228,14-20 mon 821/1200 ti link pipe,parts canada/power twins,314.95,0.0,236.21,0.0,9
+50634,1812-0400,19-22 s1000rr opt header ss,parts canada/power twins,1744.95,0.0,1308.71,0.0,10
+51219,3515-0131,convertible pet carrier &,parts canada/power twins,335.95,0.0,218.37,0.0,10
+51322,3807-0060,"optimate cable, o-01 100pk",parts canada/power twins,840.95,0.0,546.62,0.0,9
+51548,4402-0854,packtalk bold jbl single,parts canada/power twins,459.95,0.0,211.22,0.0,11
+51554,4402-0940,packtalk edge - duo,parts canada/power twins,944.95,0.0,661.47,0.0,9
+52370,97388,tkc 80 110/80b19,parts canada/power twins,349.95,0.0,170.6,0.0,10
+52757,0301-0764,130/70r18 63h av91 cobra chrom,parts canada/power twins,499.99,1.0,216.43,216.43,9
+52849,0302-1262,180/70r16 77v av92 cobra chrom,parts canada/power twins,680.99,0.0,294.91,0.0,10
+52853,0302-1266,"190/60r17,(78v)cchr",parts canada/power twins,563.99,0.0,231.54,0.0,11
+52877,0302-1468,190/50zr17 metzeler sportec,parts canada/power twins,438.99,0.0,212.53,0.0,10
+52881,0302-1505,150/60r17 66h battlax s22 rear,parts canada/power twins,300.99,0.0,128.19,0.0,11
+52883,0302-1526,160/60zr17 (69w) battlax st t3,parts canada/power twins,377.99,0.0,183.98,0.0,11
+52900,0303-0041,"130/70hr18,63h,g851f-g",parts canada/power twins,302.99,0.0,196.88,0.0,10
+52909,0304-0039,"190/60hr17,78h,g850r-g,",parts canada/power twins,423.99,0.0,275.0,0.0,10
+52982,0305-0646,100/90-16 54h roadtec 01 front,parts canada/power twins,268.99,0.0,131.6,0.0,10
+53042,0306-0415,mu85b-16 77h me888 marathon,parts canada/power twins,545.99,0.0,266.15,0.0,9
+53065,0306-0595,mu85b16 77h conti legend www,parts canada/power twins,489.99,0.0,318.47,0.0,9
+53072,0306-0644,140/90b16 77h av92 cobra,parts canada/power twins,585.99,0.0,253.48,0.0,9
+53096,0306-0793,130/70-18 63h battlax bt46 rea,parts canada/power twins,312.99,1.0,203.13,203.13,10
+53194,0317-0498,140/80b18 70t trailmax mission,parts canada/power twins,320.99,0.0,208.62,0.0,11
+53343,0601-4843,"handlebar bro +8"" bk",parts canada/power twins,829.99,0.0,580.97,0.0,9
+53669,110-10121,140/80r17 69h tourance rear,parts canada/power twins,314.99,0.0,204.72,0.0,9
+53868,1224-0032,regina 525 zrp chain 120 links,parts canada/power twins,347.99,1.0,163.445,163.445,9
+53871,1224-0041,regina 530 zrt chain 120 links,parts canada/power twins,278.99,0.0,181.32,0.0,11
+53926,1310-2266,shock 412 triumph 12.5,parts canada/power twins,547.99,1.0,383.57,383.57,9
+53927,1310-2269,shock 412 tri 12.5 hd,parts canada/power twins,547.99,0.0,383.57,0.0,9
+53938,132893,boot t3s yth bk/yl/rd 7,parts canada/power twins,259.99,0.0,194.96,0.0,11
+53965,1343400,130/70-18 63h sport demon rear,parts canada/power twins,341.99,0.0,222.27,0.0,10
+54306,1801-1231,"15-20 scout twin slash 3"" so b",parts canada/power twins,734.99,0.0,372.9,0.0,10
+54311,1802-0333,"4"" black end cap (pr)",parts canada/power twins,289.99,0.0,202.97,0.0,10
+54315,1802-0342,"4"" machined end cap slot blk",parts canada/power twins,374.99,0.0,262.47,0.0,9
+54401,1811-3136,"4"" mufflers indian chrm w/blk",parts canada/power twins,1044.99,0.0,752.36,0.0,10
+54419,1811-3399,17-20 scout slip-ons fish/t ch,parts canada/power twins,744.99,0.0,349.99,0.0,9
+54658,2040-2694,light bagz smklens indian,parts canada/power twins,284.99,0.0,199.47,0.0,9
+54760,216524,s-100 cleaner 100 liter drum,parts canada/power twins,1339.99,0.0,870.97,0.0,10
+54780,2210-0362,speedo-multi meter tnt wh,parts canada/power twins,269.99,0.0,187.57,0.0,10
+55042,2811-0646,pants missile v3 a bb 46,parts canada/power twins,649.99,0.0,487.46,0.0,10
+55045,2811-0665,pants missile v3 bk 46,parts canada/power twins,649.99,0.0,487.46,0.0,10
+55046,2811-0666,pants missile v3 bk 48,parts canada/power twins,649.99,0.0,487.46,0.0,10
+55183,3017-91,mt90b16 bw 74h d402 rear dunlo,parts canada/power twins,301.99,0.0,147.2,0.0,11
+55185,3020-91,mt90b16 72h d402 hd front oe,parts canada/power twins,256.99,0.0,125.27,0.0,11
+55648,3411-0613,boot t3s yth bk/yl/rd 7,parts canada/power twins,259.99,0.0,194.96,0.0,11
+55896,3807-0266,optimate lithium 4 bank,parts canada/power twins,350.99,0.0,193.35,0.0,10
+55909,3807-0574,optimate 2 duo x4 bank,parts canada/power twins,390.99,1.0,216.0,216.0,9
+56289,4402-0898,50r low profile system,parts canada/power twins,484.99,0.0,339.26,0.0,10
+56294,4402-0908,freecom 4x - single,parts canada/power twins,363.99,0.0,254.77,0.0,11
+57193,950202,525zvmxx110 g/g super x ring,parts canada/power twins,311.99,0.0,155.27,0.0,9
+57236,Aug-42,84-99 evo 42mm total carb kit,parts canada/power twins,935.99,1.0,542.02,542.02,11
+57748,1019700-266,substituted by 1024706-266,polaris,788.99,0.0,560.18,0.0,11
+57776,1023214-1617,"fender assembly, rear, cs blk",polaris,1185.99,0.0,842.05,0.0,11
+57777,1023214-266,substituted by 1027326-266,polaris,1115.99,0.0,792.35,0.0,11
+57806,1024443-2062,"weld-tank,fuel,ms,sprtblue/gx",polaris,2711.99,0.0,2169.59,0.0,11
+57809,1024443-800,"weld-tank,fuel,ms,onyxblk",polaris,2711.99,0.0,2169.59,0.0,11
+57814,1024706-2056,"asm-fender,frt,vr,slvqrtz/gx",polaris,1547.99,0.0,1238.39,0.0,9
+57815,1024706-266,"asm-fender,frt,vr,blk",polaris,788.99,0.0,560.18,0.0,11
+57816,1024706-800,"asm-fender,frt,vr,onyxblk",polaris,897.99,0.0,682.47,0.0,9
+57832,1025271-866,"asm-fender,rr,onyx,blk,smk",polaris,1641.99,1.0,1165.81,1165.81,10
+57836,1025320-866,"asm-fender,frt,onyx,blk,smk",polaris,1070.99,0.0,760.4,0.0,10
+57845,1025508-675,"asm-tank,fuel,wht smk",polaris,2711.99,0.0,2169.59,0.0,11
+57850,1026044-727,"asm-lid,saddlebag,lh,dpwtrmt",polaris,967.99,0.0,735.67,0.0,9
+57853,1026492-2034,"asm-tank,fuel,onyx,blk,smk,gx",polaris,2711.99,0.0,2169.59,0.0,10
+57858,1026918-2062,"weld-tank,fuel,ms,sprtblue/gx",polaris,2583.99,0.0,2067.19,0.0,10
+57859,1026918-800,"weld-tank,fuel,ms,onyxblk",polaris,2583.99,0.0,2067.19,0.0,9
+57861,1027326-2056,"asm-fender,rear,vrl,",polaris,1288.99,0.0,902.29,0.0,11
+57862,1027326-266,"asm-fender,rear,vrl,blk",polaris,1115.99,0.0,792.35,0.0,10
+57863,1027326-800,"asm-fender,rear,vrl,onyxblk",polaris,1288.99,0.0,902.29,0.0,9
+57878,1206128-266,"asm-primary cover,cr blk",polaris,897.99,0.0,592.67,0.0,10
+57882,1240058,extrusion gripper/de-icer,polaris,364.99,0.0,291.99,0.0,11
+57893,1262907-266,substituted by 1262907-458,polaris,544.99,0.0,381.49,0.0,11
+57894,1262907-458,"asm-muffler,lwr,blk",polaris,544.99,0.0,381.49,0.0,11
+57897,1262908-266,substituted by 1262908-458,polaris,544.99,0.0,381.49,0.0,11
+57898,1262908-458,"asm-muffler,upr,blk",polaris,544.99,0.0,381.49,0.0,11
+57901,1263055-922,"weld-shield,exh,frnt,lv,blk",polaris,513.99,0.0,308.27,0.0,9
+57935,1263415-156,"weld-exh,shield,cat,chr",polaris,378.99,0.0,208.44,0.0,10
+57940,1263453-156,"asm-muffler,upr,chr",polaris,544.99,0.0,381.49,0.0,10
+57953,1263501-266,substituted by 1263501-458,polaris,273.99,0.0,219.19,0.0,9
+57954,1263501-458,"weld-shield,exh,frnt,v,lv,blk",polaris,273.99,0.0,219.19,0.0,9
+57956,1263503-458,"weld-shield,exh,rr,up,v,l,blk",polaris,273.99,0.0,219.19,0.0,11
+58174,2415173,"switchcrl,3row,lh,500k",polaris,583.99,0.0,437.99,0.0,11
+58219,2635146,tour lock kit assembly,polaris,256.99,0.0,154.19,0.0,11
+58416,286065303,mw denton jkt-m,polaris,619.99,0.0,402.99,0.0,11
+58431,286065806,ww zoe jkt-l,polaris,359.99,1.0,233.99,233.99,9
+58433,286065812,ww zoe jkt-2xl,polaris,359.99,1.0,233.99,233.99,9
+58458,286073803,ww idaho waxed jkt-m,polaris,449.99,2.0,292.49,584.98,9
+58921,286170009,"mens moc toe boot br, 9",polaris,299.99,2.0,194.99,389.98,9
+58923,286170011,"mens moc toe boot br, 11",polaris,299.99,2.0,194.99,389.98,9
+58924,286170012,"mens moc toe boot br, 12",polaris,299.99,2.0,194.99,389.98,9
+58934,286170308,"mens lace up boot bk, 8",polaris,299.99,1.0,194.99,194.99,9
+58935,286170309,"mens lace up boot bk, 9",polaris,299.99,2.0,194.99,389.98,9
+58936,286170310,"mens lace up boot bk, 10",polaris,299.99,2.0,194.99,389.98,9
+58938,286170312,"mens lace up boot bk, 12",polaris,299.99,2.0,194.99,389.98,9
+58939,286170313,"mens lace up boot bk, 13",polaris,299.99,2.0,194.99,389.98,9
+59085,286273903,"wmns lindy vest bk, m",polaris,259.99,4.0,168.99,675.96,9
+59088,286273912,"wmns lindy vest bk, 2xl",polaris,259.99,4.0,168.99,675.96,9
+59223,286280709,"modular matte helmet bk, xl",polaris,389.99,3.0,253.49,760.47,9
+59240,286283702,mw black hills jkt ce blk s,polaris,339.99,1.0,220.99,220.99,9
+59241,286283703,mw black hills jkt ce blk m,polaris,339.99,1.0,220.99,220.99,9
+59242,286283706,mw black hills jkt ce blk l,polaris,339.99,1.0,220.99,220.99,9
+59243,286283709,mw black hills jkt ce blk xl,polaris,339.99,1.0,220.99,220.99,9
+59244,286283712,mw black hills jkt ce blk 2xl,polaris,339.99,1.0,220.99,220.99,9
+59245,286283802,ww black hills jkt ce blk s,polaris,339.99,1.0,220.99,220.99,9
+59248,286283809,ww black hills jkt ce blk xl,polaris,339.99,1.0,220.99,220.99,9
+59249,286283812,ww black hills jkt ce blk 2xl,polaris,339.99,1.0,220.99,220.99,9
+59253,286284309,mw beckman jkt 2 ce blk xl,polaris,559.99,1.0,363.99,363.99,9
+59255,286284314,mw beckman jkt 2 ce blk 3xl,polaris,559.99,1.0,363.99,363.99,9
+59267,28628463232,mw riding jean ce blk 32 x 32,polaris,284.99,2.0,185.24,370.48,9
+59268,28628463432,mw riding jean ce blk 34 x 32,polaris,284.99,2.0,185.24,370.48,9
+59269,28628463434,mw riding jean ce blk 34 x 34,polaris,284.99,1.0,185.24,185.24,9
+59270,28628463632,mw riding jean ce blk 36 x 32,polaris,284.99,2.0,185.24,370.48,9
+59271,28628463634,mw riding jean ce blk 36 x 34,polaris,284.99,1.0,185.24,185.24,9
+59272,28628463832,mw riding jean ce blk 38 x 32,polaris,284.99,2.0,185.24,370.48,9
+59290,286285309,ww riding legging blk xl,polaris,299.99,2.0,194.99,389.98,9
+59291,286285312,ww riding legging blk 2xl,polaris,299.99,2.0,194.99,389.98,9
+59292,286285314,ww riding legging blk 3xl,polaris,299.99,1.0,194.99,194.99,9
+59463,286295302,gloss stripe hlmt ece sil s,polaris,359.99,1.0,233.99,233.99,9
+59464,286295303,gloss stripe hlmt ece sil m,polaris,359.99,1.0,233.99,233.99,9
+59465,286295306,gloss stripe hlmt ece sil l,polaris,359.99,1.0,233.99,233.99,9
+59466,286295309,gloss stripe hlmt ece sil xl,polaris,359.99,1.0,233.99,233.99,9
+60020,2879542-06,"kit-backrest,rider,tan/studs",polaris,554.99,0.0,388.49,0.0,10
+60030,2879577-01,"kit-bag,windshield,blk",polaris,259.99,1.0,181.99,181.99,10
+60042,2879666-06,"kit-pad,backrest,pass,desert t",polaris,384.99,0.0,269.49,0.0,9
+60064,2880068,3 point seat belt kit,polaris,307.99,0.0,215.59,0.0,11
+60065,2880069,"kit-seatbelt,3 pt front sp",polaris,307.99,0.0,215.59,0.0,11
+60091,2880234-01,"kit-saddlebags,n,blk",polaris,1349.99,4.0,944.99,3779.96,11
+60096,2880239-626,"kit-controls,rr,n,blk",polaris,259.99,5.0,181.99,909.95,9
+60097,2880239-650,"kit-controls,rr,n,ti slv",polaris,259.99,3.0,181.99,545.97,11
+60117,2880654-156,"kit-airbox,indn,50 st,pac,chr",polaris,705.99,3.0,493.7,1481.1,10
+60209,2881790-463,"k-shock-rear,scout,acc,mblk",polaris,1284.99,2.0,899.49,1798.98,11
+60210,2881796,windshield touring  kit,polaris,474.99,0.0,356.24,0.0,9
+60246,2882563-02,"kit-seat,heated,1pc,ind,blk",polaris,1219.99,0.0,853.99,0.0,10
+60252,2882853-LNA,"k-seat,pass,sc,w/backrest,brn",polaris,619.99,10.0,433.99,4339.9,10
+60253,2882853-VBA,"k-seat,pass,sc,w/backrest,blkv",polaris,579.99,9.0,405.99,3653.91,11
+60285,2883449-266,"k-hndlbar,mid-ape,blk",polaris,489.99,0.0,342.99,0.0,10
+60289,2883500-FBA,"k-sidebag,msgr,blk",polaris,389.99,0.0,272.99,0.0,11
+60342,2883900,"k-cowl,seat w/pad",polaris,534.99,0.0,374.49,0.0,9
+60440,2884226-VNA,"k-seat,driver,comf,brown",polaris,389.99,9.0,226.09,2034.81,10
+60503,2884677,k-wind deflector mount,polaris,259.99,5.0,181.99,909.95,11
+60510,2884708-266,"k-light,driving,led,blk",polaris,294.99,4.0,206.49,825.96,9
+60512,2884711-266,"k-light,mnt,chftn,blk",polaris,294.99,2.0,206.49,412.98,11
+60517,2884721-156,"k-exh tip,slash,chr",polaris,424.99,0.0,297.49,0.0,10
+60525,2884775-266,"k-fog light,blk",polaris,409.99,2.0,286.99,573.98,9
+60527,2884801-VBA,"k-backrest,bagr,pass,vinyl",polaris,254.99,4.0,178.49,713.96,10
+60536,2884899-266,"k-mount,driving light,3.5 ,blk",polaris,279.99,2.0,195.99,391.98,11
+60555,2884996-266,"k-hdlt,adapt,5 ,h4,blk",polaris,704.99,3.0,493.49,1480.47,10
+60561,2885004-156,"k-rack,solo,chr",polaris,424.99,1.0,297.49,297.49,10
+60580,2885172,"k-seat,elite",polaris,359.99,0.0,251.99,0.0,11
+60604,2889301-156,"k-handlebar,redrch,v,chr",polaris,269.99,0.0,188.99,0.0,11
+60605,2889301-266,"k-handlebar,redrch,v,blk",polaris,279.99,1.0,195.99,195.99,11
+60619,2889385-VBB,"k-seat,synsolo,blkvyl",polaris,324.99,3.0,227.49,682.47,10
+60630,2889605-156,"k-base,trunk,chr",polaris,519.99,1.0,363.99,363.99,11
+60636,2889609-869,"k-trunk,slvqtzmet",polaris,2319.99,0.0,1623.99,0.0,11
+60642,2889651-463,"k-fairing,qrtr,can,blksmk",polaris,679.99,0.0,475.99,0.0,9
+60806,4015220,substituted by 4016189,polaris,814.99,0.0,611.24,0.0,11
+60807,4015234,substituted by 4016189,polaris,814.99,0.0,611.24,0.0,11
+60812,4015586,substituted by 4017283,polaris,608.99,0.0,365.39,0.0,11
+60851,4019661,"regulator-volt,ixys diode,blk",polaris,410.99,0.0,287.69,0.0,10
+61265,5454540-266,"airbox bezel, cruiser black",polaris,256.99,0.0,182.46,0.0,9
+61271,5454594-727,"fairing-front,nvyblu",polaris,1256.99,0.0,892.46,0.0,9
+61298,5455392-675,"bin-trunk,ind,pwhtsmk",polaris,1153.99,0.0,865.49,0.0,9
+61314,5456261-675,"lid,trunk,al rack,whtsmk",polaris,1782.99,0.0,1355.07,0.0,9
+61321,5456385-1888,"asm-saddlebag,clsc,lh,",polaris,1564.99,0.0,1173.74,0.0,11
+62245,1017022/A,fork end lh assy,royal enfield,271.99,0.0,175.69,0.0,11
+62314,148721,"fuel tank, painted, ice queen",royal enfield,624.99,1.0,406.0,406.0,10
+62350,1750044/B,aluminium pannier silver,royal enfield,930.99,6.0,733.63,4401.78,10
+62354,1760097/D,"compact engine guard,",royal enfield,258.99,2.0,161.0,322.0,10
+62377,1990401,"bar end mirror kit,",royal enfield,349.99,0.0,231.0,0.0,10
+62389,1990454,"touring mirror kit,",royal enfield,335.99,0.0,224.0,0.0,10
+62402,330-0709,camshaft kit bolt (royal enfiel 650,royal enfield,279.99,1.0,105.53,105.53,10
+62585,6000003,re nacs ii - dol tool,royal enfield,1938.99,0.0,1260.0,0.0,11
+62604,890022,crank case box assy- d1,royal enfield,1615.99,0.0,1050.0,0.0,11
+62605,920-0145,big bore kit 865cc (royal enfield 650,royal enfield,1099.99,1.0,399.95,399.95,10
+62606,AD1LA001,ga-d1- engine complete,royal enfield,4307.99,0.0,2800.0,0.0,11
+62607,AJ1LA002,j1 engine assy textured black-,royal enfield,2696.99,0.0,2073.88,0.0,9
+62622,KAB00267/A,fr caliper p81 -anodized (no p,royal enfield,329.99,4.0,235.12,940.48,10
+62623,KAB00268/A,rear caliper p81 -anodized (no,royal enfield,335.99,5.0,239.51,1197.55,10
+62625,KLH00008/A,cylinder head & rocker,royal enfield,469.99,0.0,293.45,0.0,9
+62626,KLH00017/A,"cylinder head assembly, fins m",royal enfield,372.99,0.0,310.72,0.0,9
+62698,RAK00234/A,fuel tank with sticker j1d - y,royal enfield,478.99,0.0,290.0,0.0,9
+62713,RAM00186/A,instrument cluster,royal enfield,313.99,0.0,241.18,0.0,9
+62714,RAM00225/C,instrument cluster mph (with,royal enfield,289.99,0.0,186.97,0.0,9
+62895,A9640208,fox rsu pair long,savage cycles,1020.99,0.0,729.29,0.0,9
+62948,t2048903,"yoke assy, lower",savage cycles,392.99,0.0,267.69,0.0,10
+63056,4161015360,schuberth c5 gloss white md,schuberth,1011.15,0.0,585.0,0.0,10
+63057,4167115360,matte black c5 med,schuberth,1011.15,0.0,606.69,0.0,9
+63160,4449145360,e1 tuareg yellow 57 md,schuberth,974.49,0.0,545.22,0.0,9
+63267,4566016360,c4 glossy silver l,schuberth,999.0,0.0,702.57,0.0,11
+63297,4568246360,c4 pro carbon tempest yellow 59,schuberth,1174.49,0.0,666.16,0.0,11
+63306,4568326360,c4 pro carbon avio red l,schuberth,1174.49,0.0,666.16,0.0,11
+71041,N81-16XDiavel,xdiavel frame sliders,t-rex racing,340.94,0.0,252.55,0.0,9
+72210,255435,110/90-16 59v battlax bt46 fr,thibault canada,295.99,0.0,192.39,0.0,10
+72232,258301,100/90-16 54h t/l battlax bt46,thibault canada,251.99,0.0,120.15,0.0,9
+72238,258541,120/80-17 61h t/l battlax bt46,thibault canada,271.99,0.0,176.79,0.0,9
+72667,4261641,"180/55zr17,(73w),rosso,4",thibault canada,393.99,1.0,165.27,165.27,9
+72738,4264227,150/80b16 m/c rein tl 77h nigh,thibault canada,361.99,0.0,185.55,0.0,9
+72744,4264311,130/90-16 tl 67h night dragon fr,thibault canada,327.99,0.0,213.19,0.0,9
+72745,4264316,130/90-16 m/c 73h tl dragon fr,thibault canada,341.99,0.0,222.29,0.0,11
+72748,4264403,100/90-18 tl 65h phantom sport,thibault canada,275.99,0.0,139.92,0.0,11
+72777,4264926,120/70r19 m/c (60v) tl scorpio,thibault canada,354.99,0.0,152.09,0.0,11
+72783,4264939,170/60r17 m/c (72v) tl scorpio,thibault canada,442.99,0.0,192.15,0.0,9
+72921,5262581,180/70r16 77v tl me888 oe triu,thibault canada,578.99,0.0,291.01,0.0,10
+72947,5262678,150/80r16 m/c 71v tl me888 fr.,thibault canada,524.99,0.0,264.65,0.0,10
+73028,5264425,150/70r18 mc/tl 70v tourance n,thibault canada,401.99,1.0,261.29,261.29,10
+73252,6264203,150/80-16 71h fr.avon cobra ch,thibault canada,445.99,0.0,190.12,0.0,10
+73574,800100,tire changer with left arm hel,thibault canada,2649.99,0.0,2649.99,0.0,10
+73575,800200,wheel balancer with,thibault canada,2649.99,0.0,2649.99,0.0,10
+73578,800600,motorcycle table 24'x84' blk 1,thibault canada,1199.99,0.0,1199.99,0.0,10
+73625,RAVG2116,elect.balancer g2.116r 120v/1/,thibault canada,4999.99,0.0,4999.99,0.0,10
+73773,214Z2474,%wsvstreammid lt tintf700gs,thibault canada,459.99,0.0,321.99,0.0,10
+73822,40870002,chain maintenance set,thibault canada,309.99,0.0,216.99,0.0,10
+73823,40870003,motorcycle chain maintenance,thibault canada,339.99,0.0,237.99,0.0,10
+73857,4262121,200/55zr17 tl (78w)v3 sp diabl,thibault canada,671.99,0.0,436.79,0.0,9
+73882,6251715,120/70 r 19 60v tl tkc70 m+s,thibault canada,361.99,0.0,235.29,0.0,9
+73890,6502844,exo-st1400 gloss black carbon,thibault canada,629.99,0.0,472.49,0.0,10
+73905,7527525136,denim blast regular tex pants,thibault canada,299.99,0.0,224.99,0.0,10
+74500,A2307151,"grabrack, kit",triumph,405.99,0.0,263.25,0.0,11
+74508,A2308986,heated rider seat,triumph,435.99,0.0,282.75,0.0,11
+74641,A9501308,"top box, 46l",triumph,465.99,0.0,302.25,0.0,10
+74642,A9501309,"top box, 52l",triumph,465.99,0.0,302.25,0.0,9
+74804,A9510553,"tail pack, qr",triumph,285.99,2.0,185.25,370.5,11
+74870,A9518171,magnetic tank bag spts,triumph,260.99,1.0,169.0,169.0,11
+75040,A9600673,silencer street scrambler,triumph,1240.99,0.0,620.0,0.0,9
+75322,A9631556,heated grip kit,triumph,445.99,3.0,289.25,867.75,9
+75532,A9700379,roadster screen kit,triumph,670.99,1.0,435.5,435.5,9
+75556,A9700610,heated rider se,triumph,625.99,0.0,406.25,0.0,11
+75587,A9700891,"seat,dual,low,kit",triumph,265.99,0.0,172.25,0.0,10
+75588,A9700904,"pass seat,tour",triumph,280.99,0.0,182.0,0.0,10
+75640,A9701459,"rid seat,low he",triumph,310.99,6.0,201.5,1209.0,11
+75645,A9701522-PM,flyscreen kit,triumph,315.99,0.0,204.75,0.0,9
+75647,A9701541,"seat, rider, lo",triumph,320.99,5.0,208.0,1040.0,11
+76344,A9750803,passenger backrest kit,triumph,365.99,1.0,237.25,237.25,9
+76460,A9759192,grabrail mount kit,triumph,255.99,1.0,165.75,165.75,9
+76461,A9759193,uprights kit backrest chr,triumph,350.99,1.0,227.5,227.5,9
+76463,A9759201,rack kit chrome,triumph,290.99,3.0,188.5,565.5,9
+76502,A9770249,foot control ki,triumph,655.99,0.0,425.75,0.0,11
+76507,A9770383,centre stand,triumph,330.99,1.0,214.5,214.5,10
+76744,A9838094,"fog lamps, led",triumph,485.99,1.0,315.25,315.25,11
+78754,MBTA22801-10,corozol bts-10,triumph,419.99,0.0,272.96,0.0,11
+78755,MBTA22801-11,corozol bts-11,triumph,419.99,0.0,272.96,0.0,11
+78756,MBTA22801-12,corozol bts-12,triumph,419.99,0.0,272.96,0.0,11
+78761,MBTA22803-10.5,smx 6vd bts-10.5,triumph,369.99,0.0,240.46,0.0,11
+78762,MBTA22803-11.5,smx 6vd bts-11.5,triumph,369.99,0.0,240.46,0.0,11
+78763,MBTA22803-12,smx 6vd bts-12,triumph,369.99,0.0,240.46,0.0,11
+78765,MBTA22803-9,smx 6vd bts-9,triumph,369.99,0.0,240.46,0.0,11
+78917,MDJS20200-30R,rokker jean,triumph,449.99,1.0,292.49,292.49,11
+79148,MGVS18122-XXL,malvern glove,triumph,251.99,0.0,176.38,0.0,10
+79366,MLES2202-M,t sport jkt-m,triumph,700.99,0.0,455.0,0.0,11
+79369,MLES2202-XXL,t sport jkt-xxl,triumph,700.99,0.0,455.0,0.0,11
+79382,MLES22107-L,lds brad air-l,triumph,639.99,1.0,415.99,415.99,11
+79384,MLES22107-S,lds brad air-s,triumph,639.99,1.0,415.99,415.99,11
+79408,MLES23800-L,ac lthr jkt-l,triumph,649.99,0.0,422.49,0.0,11
+79409,MLES23800-XL,ac lthr jkt-xl,triumph,649.99,0.0,422.49,0.0,11
+79410,MLES23800-XXL,ac lthr jkt-xxl,triumph,649.99,0.0,422.49,0.0,11
+79476,MLHS19E30-L,vance jacket,triumph,574.99,1.0,373.75,373.75,11
+79477,MLHS19E30-M,vance jacket,triumph,574.99,0.0,230.0,0.0,11
+79490,MLHS21101-XXL,braddan xxl,triumph,665.99,0.0,432.26,0.0,10
+79503,MLJS20531-30,triple jean,triumph,550.99,1.0,220.0,220.0,10
+79509,MLJS2201-36,tsport pant-36,triumph,570.99,0.0,370.5,0.0,11
+79512,MLJS2204-32,triple pant-32,triumph,570.99,0.0,370.5,0.0,9
+79560,MLLS21105-S,braddan ls jkt,triumph,639.99,0.0,415.99,0.0,9
+81186,T1127035,"piston assy, 84",triumph,787.99,0.0,511.75,0.0,9
+81982,T1261005,cam cover,triumph,605.99,0.0,121.02,0.0,11
+82070,T1266016,"cover, clutch,",triumph,293.99,0.0,190.55,0.0,11
+82073,T1267018,"assy, cover, cl",triumph,282.99,0.0,183.37,0.0,10
+82325,T2001140,"wheel, front, a",triumph,987.99,0.0,641.7,0.0,11
+82505,T2017243,chain and sproc,triumph,312.99,0.0,203.36,0.0,11
+82674,T2021395,"caliper assy, l",triumph,828.99,0.0,538.38,0.0,11
+82716,T2022080,"disc,front,floating",triumph,340.99,1.0,109.34,109.34,9
+83199,T2042372,"stanchion assy,",triumph,1077.99,0.0,700.14,0.0,10
+83213,T2042542,"fork leg assy,",triumph,809.99,0.0,525.87,0.0,11
+83214,T2042543,"fork leg assy,",triumph,809.99,0.0,525.87,0.0,11
+83250,T2043096,"yoke assy, lowe",triumph,311.99,0.0,202.4,0.0,11
+83251,T2043103,"stanchion assy,",triumph,1289.99,0.0,838.16,0.0,11
+83574,T2048903,"yoke assy, lowe",triumph,422.99,0.0,274.36,0.0,10
+83609,T2049772,"switchcube, lh,",triumph,355.99,0.0,231.1,0.0,11
+83692,T2054443,rear suspension,triumph,1302.99,0.0,846.47,0.0,11
+83721,T2057764,"rsu, tes, elect",triumph,1558.99,0.0,1012.87,0.0,9
+83835,T2071680,"spares kit, dre",triumph,536.99,0.0,348.64,0.0,9
+83870,T2075241,"cradle assy, lh",triumph,306.99,0.0,199.2,0.0,10
+83884,T2079501,"frame assy, spa",triumph,5802.99,0.0,3771.62,0.0,11
+84556,T2106301,radiator assy,triumph,767.99,0.0,498.72,0.0,11
+84720,T2202615,"headerassy,rhs",triumph,515.99,0.0,335.02,0.0,9
+84731,T2202835,"headerassy,lhs",triumph,515.99,0.0,335.02,0.0,9
+84761,T2203385,"silencer, assy,",triumph,1382.99,0.0,898.77,0.0,10
+85147,T2301959-PG,"rh fairing, jet",triumph,1004.99,0.0,652.9,0.0,9
+85253,T2303392-CX,"panel,tank, rhs",triumph,326.99,0.0,212.38,0.0,11
+85267,T2303681,"mudguard, front",triumph,528.99,0.0,343.81,0.0,11
+85314,T2304365,comfort gel sea,triumph,484.99,0.0,314.8,0.0,10
+85433,T2305676,"mudguard, front",triumph,298.99,0.0,193.79,0.0,11
+85440,T2305717,"support, mudgua",triumph,391.99,0.0,254.61,0.0,11
+85472,T2306055-PG,"sidepanel,lh,pa",triumph,367.99,0.0,239.08,0.0,10
+85748,T2308712-PG,"cowl,seat,pntd+pads,jet black",triumph,367.99,0.0,239.08,0.0,10
+85845,T2309419-MH,"rear m/guard, a",triumph,345.99,0.0,224.44,0.0,11
+85855,T2309537-PG,"sidepanel, rh,",triumph,367.99,0.0,239.08,0.0,11
+85911,T2310122,"seat, rider, co",triumph,374.99,1.0,243.24,243.24,11
+85921,T2310563,"rider seat, ass",triumph,322.99,0.0,209.74,0.0,11
+85928,T2310752,"seat, assembly",triumph,387.99,0.0,251.56,0.0,10
+85933,T2311330,"screen,moulding",triumph,468.99,0.0,304.6,0.0,10
+85942,T2311930-PM,"tankendpanel,",triumph,326.99,0.0,212.38,0.0,11
+85944,T2311931-PM,"tankendpanel,",triumph,326.99,0.0,212.38,0.0,11
+85949,T2312814,"seat, rider, lo",triumph,367.99,0.0,239.15,0.0,9
+85988,T2319125,"screen, mldg, c",triumph,450.99,0.0,293.0,0.0,10
+86199,T2401629-PG,"fuel tank,pntd+",triumph,1835.99,0.0,1192.8,0.0,11
+86212,T2401901-MH,"spares kit,fuel",triumph,1690.99,0.0,1098.63,0.0,10
+86230,T2402300-PG,"fuel tank,sprs,",triumph,1835.99,0.0,1192.8,0.0,11
+86283,T2403507-MP,fuel tank cover,triumph,560.99,0.0,364.1,0.0,11
+86294,T2405290-MH,"fuel tank,pntd+",triumph,2221.99,0.0,1443.92,0.0,9
+86296,T2405331-NW,"fuel tank,pntd+",triumph,2221.99,0.0,1443.92,0.0,9
+86297,T2405331-PR,"fuel tank,pntd+",triumph,2221.99,0.0,1443.92,0.0,9
+86300,T2405421-AA,"fuel tank,pntd+",triumph,2511.99,0.0,1632.27,0.0,9
+86301,T2405421-PG,"fuel tank,pntd+",triumph,1835.99,0.0,1192.8,0.0,10
+86530,T2503101,instrument assy,triumph,992.99,0.0,645.43,0.0,10
+86542,T2503330,lockset,triumph,601.99,0.0,391.17,0.0,10
+86555,T2503982,"instruments, mp",triumph,1113.99,0.0,723.83,0.0,10
+86569,T2504519,switch assembly,triumph,301.99,0.0,196.28,0.0,9
+86629,T2508040,inertial measurement unit,triumph,463.99,0.0,301.11,0.0,9
+86892,T2701923,"headlamp unit,",triumph,289.99,0.0,187.96,0.0,10
+86903,T2702028,"lamp, rear",triumph,276.99,0.0,179.67,0.0,10
+88185,T3880072,"charger, batter",triumph,880.99,2.0,880.69,1761.38,9
+88349,T3990145,"gasket kit,full",triumph,586.99,0.0,381.09,0.0,11
+88350,T3990146,"gasket kit,head",triumph,502.99,0.0,326.94,0.0,11
+88351,T3990147,"gasket kit,full",triumph,569.99,0.0,370.16,0.0,11
+88352,T3990148,"gasket kit,head",triumph,476.99,0.0,309.85,0.0,11
+88844,18090003,r18 rockbob front fender,wunderlich usa,1251.38,0.0,1088.16,0.0,10
+88848,18700114,"r18 rockbob saddle, brown leather",wunderlich usa,1877.11,0.0,1632.27,0.0,10
+88849,18710003,r18 rockbob rear fender,wunderlich usa,1820.95,0.0,1627.34,0.0,10
+88852,25911002,evo1 vario footrest rest set,wunderlich usa,295.03,0.0,256.07,0.0,9
+88952,625.3,drill bit m3 =7/64,wurth canada,304.7,0.0,3.048,0.0,10
+89234,10-08214,sr/f top rack assembly,zero motorcycles,300.0,0.0,180.0,0.0,9
+89289,24-08451,touring seat,zero motorcycles,540.0,0.0,325.0,0.0,11
