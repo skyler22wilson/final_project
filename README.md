@@ -42,4 +42,7 @@ The project involves the following key components:
 ## Getting Started
 
 1. Clone this repository to your local machine.
+   
+   ```bash
+   git clone https://github.com/skyler22wilson/final_project.git
 
