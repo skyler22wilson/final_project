@@ -1,21 +1,17 @@
-def custom_distance_function(df, x, y):
-    turnover_x = df.at[x, 'Turnover']
-    EOQ_x = df.at[x, 'EOQ']
-    demand_x = df.at[x, 'Demand']
-    three_month_demand_x = df.loc[(df['Months No Sale'] < 3) & (df['Sales Last 3 Months'] > 1), 'Demand']
+import numpy as np
+import pandas as pd
 
-    turnover_y = df.at[y, 'Turnover']
-    EOQ_y = df.at[y, 'EOQ']
-    demand_y = df.at[y, 'Demand']
-    three_month_demand_y = df.loc[(df['Months No Sale'] < 3) & (df['Sales Last 3 Months'] > 1), 'Demand']
+parts_data = pd.read_csv('/Users/skylerwilson/Desktop/Lighthouse_Labs/Projects/final_project/data/Project_Data/final_parts_data.csv')
 
-    # Calculate the differences for each feature
-    turnover_diff = turnover_x - turnover_y
-    EOQ_diff = EOQ_x - EOQ_y
-    demand_diff = demand_x - demand_y
-    three_month_demand_diff = three_month_demand_x - three_month_demand_y
+feature_mask = (parts_data['Months No Sale'] < 3) & (parts_data['Sales Last 3 Months'] > 0)
 
-    custom_distance = (
-        0.35 * turnover_diff + 0.30 * three_month_demand_diff + 0.20 * demand_diff + 0.15 * EOQ_diff
-    )
-    return custom_distance
+# Create a numpy array with the features you want to use for clustering
+X_features = parts_data.loc[feature_mask, ['Turnover', 'EOQ', 'Demand', 'Months No Sale']].values
+
+# Define the custom distance function using vectorized operations
+def custom_distance_function(x, y):
+    weights = np.array([0.35, 0.15, 0.20, 0.30])
+    diffs = x - y
+    squared_diffs = diffs**2
+    weighted_squared_diffs = weights * squared_diffs
+    return np.sum(weighted_squared_diffs)
