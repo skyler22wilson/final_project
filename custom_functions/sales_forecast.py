@@ -15,7 +15,7 @@ def find_best_hyperparameters(X, y):
     
     for alpha, beta, gamma in product(alpha_values, beta_values, gamma_values):
         model = ExponentialSmoothing(y, seasonal='add', seasonal_periods=12)
-        fit_model = model.fit(smoothing_level=alpha, smoothing_slope=beta, smoothing_seasonal=gamma)
+        fit_model = model.fit(smoothing_level=alpha, smoothing_trend=beta, smoothing_seasonal=gamma)
         forecast = fit_model.forecast(steps=len(X))
         
         mse = mean_squared_error(y, forecast)
